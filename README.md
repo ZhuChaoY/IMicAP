@@ -1,6 +1,9 @@
 # IMicAP
 IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research
 
+## Open-Accese
+https://www.imicap.com:8443
+
 ## Abstract
 **Background**: The gut microbiota plays a critical role in human health and disease, yet microbiome research is hindered by fragmented data resources, heterogeneous knowledge structures, and limited analytical integration. However, existing microbial datasets remain diverse, fragmented, and underutilized due to the lack of integrated databases.
 
