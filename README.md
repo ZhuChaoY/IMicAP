@@ -1,7 +1,7 @@
 # IMicAP
 IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research
 
-## Open-Accese
+## Open-Access Website
 https://www.imicap.com:8443
 
 ## Abstract
