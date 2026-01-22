@@ -1,2 +1,0 @@
-480bd6a139f7e30db8ca1cbabf76d330  ./GCF_000005845.1_ASM584v1_assembly_report.txt
-74131d40054140872cca7487ccc64f31  ./GCF_000005845.1_ASM584v1_assembly_stats.txt

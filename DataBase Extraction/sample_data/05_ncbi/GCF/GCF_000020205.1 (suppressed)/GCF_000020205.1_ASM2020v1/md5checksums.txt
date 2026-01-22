@@ -1,2 +1,0 @@
-af5f4512d678707ad237e14cc6a58676  ./GCF_000020205.1_ASM2020v1_assembly_report.txt
-eac07cabbde1139d025c2399d72bcd49  ./GCF_000020205.1_ASM2020v1_assembly_stats.txt
