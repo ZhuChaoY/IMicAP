@@ -1,0 +1,30 @@
+# Assembly name:  ASM2598v1
+# Organism name:  Bacteroides fragilis NCTC 9343 (CFB group bacteria)
+# Infraspecific name:  strain=NCTC 9343
+# Taxid:          272559
+# BioSample:      SAMEA1705957
+# BioProject:     PRJNA46
+# Submitter:      Sanger Institute
+# Date:           2005-03-03
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000025985.1
+# RefSeq assembly accession: GCF_000025985.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000025995.1	GCF_000025995.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CR626927.1	assembled-molecule	na	Chromosome	CR626927.1	=	NC_003228.3	Primary Assembly	5205140	na
+pBF9343	assembled-molecule	pBF9343	Plasmid	CR626928.1	=	NC_006873.1	Primary Assembly	36560	na
