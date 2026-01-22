@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_001709315.1
+Submitted organism: Pantoea agglomerans (taxid = 549, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Pantoea; Pantoea agglomerans group)
+Best match: Pantoea agglomerans (taxid = 549, rank = species, lineage = Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Pantoea; Pantoea agglomerans group)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 97.664 ( 84.6  92.2)  3717137  3707411  27595108     Pantoea agglomerans (GCA_019048385.1, ASM1904838v1)
+ 97.545 ( 84.6  92.1)   365002      434   6981868     Pantoea agglomerans (GCA_900454405.1, 31180_D01)
+ 97.658 ( 84.0  92.4)    60797     1406   3141278     Pantoea agglomerans NBRC 102470 (GCA_001598475.1, ASM159847v1)
+ 98.990 ( 88.3  92.5)   437776   196177  21533208  E  Pantoea pleuroti (GCA_014156615.1, ASM1415661v1)
+ 97.615 ( 85.5  87.8)    26359    20283   7720418     [Curtobacterium] plantarum (GCA_003710245.1, ASM371024v1)
+ 92.170 ( 82.3  88.6)    30035    29472   3708428     Candidatus Pantoea varia (GCA_900115075.1, IMG-taxon 2690315639 annotated assembly)
+ 91.467 ( 81.5  87.7)    16762    14926  28725568  E  Pantoea alfalfae (GCA_019880205.1, ASM1988020v1)
+ 91.376 ( 75.0  90.2)     3207     3207   5162608     Candidatus Pantoea rara (GCA_002419935.1, ASM241993v1)
+ 91.268 ( 79.6  85.0)     4382     4003   9297568     Pantoea vagans (GCA_004792415.1, ASM479241v1)
+ 90.741 ( 77.8  83.6)     1077      234  11528118     Pantoea eucalypti (GCA_006494355.1, ASM649435v1)
+ 90.759 ( 78.2  81.1)     1054     1054  14002048     Candidatus Pantoea gossypiicola (GCA_008632075.1, ASM863207v1)
+ 90.767 ( 78.2  83.3)      851      851  15233308     Pantoea eucalypti (GCA_009646115.1, ASM964611v1)
+ 88.527 ( 75.5  82.5)    66846    63949  32368598     Pantoea deleyi (GCA_022647325.1, ASM2264732v1)
+ 88.594 ( 73.0  80.9)     7712     7712   4382288     Pantoea deleyi (GCA_002095375.1, ASM209537v1)
+ 88.601 ( 74.3  80.9)     3369     1473  11528148     Pantoea anthophila (GCA_006494375.1, ASM649437v1)
+ 88.429 ( 72.2  80.4)     6100     1360  71483198     Pantoea graminicola (GCA_048452665.1, ASM4845266v1)
+ 88.496 ( 75.1  82.4)     1845     1845  11528188     Pantoea deleyi (GCA_006494415.1, ASM649441v1)
+ 88.372 ( 71.5  83.9)     1244        0  75024268     Pantoea phosphatilytica (GCA_051025615.1, ASM5102561v1)
+ 86.515 ( 69.6  79.3)      147        0   5176888     Candidatus Pantoea astica (GCA_002434205.1, ASM243420v1)
+ 86.346 ( 69.7  72.3)    51657     1659   4382208     Pantoea brenneri (GCA_002095305.1, ASM209530v1)
+ 86.315 ( 65.8  78.1)     2562     2562   4382198     Pantoea conspicua (GCA_002095315.1, ASM209531v1)
+ 82.433 ( 37.0  37.4)    10256    10256  74789618     Pantoea allii (GCA_050856905.1, ASM5085690v1)
+ 82.424 ( 42.3  43.6)        0        0   4337528  E  Pantoea latae (GCA_002077695.1, ASM207769v1)
+ 82.349 ( 36.6  35.7)        0        0   5021628     Pantoea allii (GCA_002307475.1, ASM230747v1)
+ 82.305 ( 43.1  50.1)        0        0  27346648     Candidatus Pantoea haifensis (GCA_018842655.1, ASM1884265v1)
+ 82.386 ( 40.4  43.8)        0        0  77068288  E  Pantoea tagorei (GCA_052258085.1, ASM5225808v1)
+ 82.283 ( 35.9  36.7)    33697        0   4382428     Pantoea allii (GCA_002095545.1, ASM209554v1)
+ 82.226 ( 36.6  38.0)     4481      369  14066868     Pantoea dispersa (GCA_008692915.1, ASM869291v1)
+ 82.271 ( 45.3  45.8)     3661      656  67308278     Pantoea phytostimulans (GCA_046118715.1, ASM4611871v1)
+ 82.249 ( 45.0  44.0)     2751     2751  27346668     Candidatus Pantoea bituminis (GCA_018842675.1, ASM1884267v1)
+ 82.175 ( 37.2  41.9)     1615     1615  22604058     Mixta mediterraneensis (GCA_014946725.1, ASM1494672v1)
+ 82.244 ( 41.5  49.3)      692      185   4382458     Pantoea septica (GCA_002095575.1, ASM209557v1)
+ 82.208 ( 41.6  47.3)      476        0  75024238     Pantoea phyllosphaerae (GCA_051025595.1, ASM5102559v1)
+ 82.238 ( 39.8  42.0)      463        0   7523418     Pantoea piersonii (GCA_003612015.1, ASM361201v1)
+ 82.220 ( 36.6  38.0)      107        0  21527388     Pantoea dispersa (GCA_014155765.1, ASM1415576v1)
+ 82.104 ( 35.6  36.6)        0        0   1048248   T Pantoea ananatis LMG 2665 (GCA_000661975.1, Pantoea_ananatis_LMG_2665)
+ 82.048 ( 39.4  40.2)      213      213   7903418     Candidatus Pantoea deserta (GCA_003813865.1, ASM381386v1)
+ 82.041 ( 33.3  36.8)      114        0  12998058     Candidatus Pantoea soli (GCA_007833795.1, ASM783379v1)
+ 82.058 ( 31.4  34.5)        0        0   4382368     Pantoea wallisii (GCA_002095485.1, ASM209548v1)
+ 82.032 ( 35.4  36.7)        0        0  21983788   T Pantoea ananatis LMG 2665 (GCA_000710035.2, PA2665v2)

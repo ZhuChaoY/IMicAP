@@ -1,0 +1,93 @@
+# Assembly name:  DSM-23975
+# Organism name:  Bifidobacterium reuteri DSM 23975 (high G+C Gram-positive bacteria)
+# Infraspecific name:  strain=DSM 23975
+# Taxid:          1437610
+# BioSample:      SAMN02442040
+# BioProject:     PRJNA237576
+# Submitter:      Key Laboratory of Dairy BiotecInner Mongolia Agricultural University
+# Date:           2014-11-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JDUW01
+# Assembly method: SOAPdenovo v. 2.01
+# Expected final version: yes
+# Genome coverage: 278.3x
+# Sequencing technology: Illunima Hiseq
+# Relation to type material: assembly from type material
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000771685.1
+# RefSeq assembly accession: GCF_000771685.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000771695.1	GCF_000771695.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+contig1	unplaced-scaffold	na	na	JDUW01000001.1	=	NZ_JDUW01000001.1	Primary Assembly	315419	na
+contig2	unplaced-scaffold	na	na	JDUW01000002.1	=	NZ_JDUW01000002.1	Primary Assembly	290637	na
+contig3	unplaced-scaffold	na	na	JDUW01000003.1	=	NZ_JDUW01000003.1	Primary Assembly	234326	na
+contig4	unplaced-scaffold	na	na	JDUW01000004.1	=	NZ_JDUW01000004.1	Primary Assembly	206748	na
+contig5	unplaced-scaffold	na	na	JDUW01000005.1	=	NZ_JDUW01000005.1	Primary Assembly	112006	na
+contig6	unplaced-scaffold	na	na	JDUW01000006.1	=	NZ_JDUW01000006.1	Primary Assembly	37201	na
+contig7	unplaced-scaffold	na	na	JDUW01000007.1	=	NZ_JDUW01000007.1	Primary Assembly	141199	na
+contig8	unplaced-scaffold	na	na	JDUW01000008.1	=	NZ_JDUW01000008.1	Primary Assembly	134067	na
+contig9	unplaced-scaffold	na	na	JDUW01000009.1	=	NZ_JDUW01000009.1	Primary Assembly	45398	na
+contig10	unplaced-scaffold	na	na	JDUW01000010.1	=	NZ_JDUW01000010.1	Primary Assembly	76390	na
+contig11	unplaced-scaffold	na	na	JDUW01000011.1	=	NZ_JDUW01000011.1	Primary Assembly	113464	na
+contig12	unplaced-scaffold	na	na	JDUW01000012.1	=	NZ_JDUW01000012.1	Primary Assembly	36211	na
+contig13	unplaced-scaffold	na	na	JDUW01000013.1	=	NZ_JDUW01000013.1	Primary Assembly	73030	na
+contig14	unplaced-scaffold	na	na	JDUW01000014.1	=	NZ_JDUW01000014.1	Primary Assembly	109192	na
+contig15	unplaced-scaffold	na	na	JDUW01000015.1	=	NZ_JDUW01000015.1	Primary Assembly	103315	na
+contig16	unplaced-scaffold	na	na	JDUW01000016.1	=	NZ_JDUW01000016.1	Primary Assembly	73369	na
+contig17	unplaced-scaffold	na	na	JDUW01000017.1	=	NZ_JDUW01000017.1	Primary Assembly	22781	na
+contig18	unplaced-scaffold	na	na	JDUW01000018.1	=	NZ_JDUW01000018.1	Primary Assembly	93772	na
+contig19	unplaced-scaffold	na	na	JDUW01000019.1	=	NZ_JDUW01000019.1	Primary Assembly	74553	na
+contig20	unplaced-scaffold	na	na	JDUW01000020.1	=	NZ_JDUW01000020.1	Primary Assembly	71461	na
+contig21	unplaced-scaffold	na	na	JDUW01000021.1	=	NZ_JDUW01000021.1	Primary Assembly	63074	na
+contig22	unplaced-scaffold	na	na	JDUW01000022.1	=	NZ_JDUW01000022.1	Primary Assembly	50675	na
+contig23	unplaced-scaffold	na	na	JDUW01000023.1	=	NZ_JDUW01000023.1	Primary Assembly	46891	na
+contig24	unplaced-scaffold	na	na	JDUW01000024.1	=	NZ_JDUW01000024.1	Primary Assembly	18040	na
+contig25	unplaced-scaffold	na	na	JDUW01000025.1	=	NZ_JDUW01000025.1	Primary Assembly	20406	na
+contig26	unplaced-scaffold	na	na	JDUW01000026.1	=	NZ_JDUW01000026.1	Primary Assembly	33979	na
+contig27	unplaced-scaffold	na	na	JDUW01000027.1	=	NZ_JDUW01000027.1	Primary Assembly	224	na
+contig28	unplaced-scaffold	na	na	JDUW01000028.1	=	NZ_JDUW01000028.1	Primary Assembly	28305	na
+contig29	unplaced-scaffold	na	na	JDUW01000029.1	=	NZ_JDUW01000029.1	Primary Assembly	28079	na
+contig30	unplaced-scaffold	na	na	JDUW01000030.1	=	NZ_JDUW01000030.1	Primary Assembly	27455	na
+contig31	unplaced-scaffold	na	na	JDUW01000031.1	=	NZ_JDUW01000031.1	Primary Assembly	21370	na
+contig32	unplaced-scaffold	na	na	JDUW01000032.1	=	NZ_JDUW01000032.1	Primary Assembly	20067	na
+contig33	unplaced-scaffold	na	na	JDUW01000033.1	=	NZ_JDUW01000033.1	Primary Assembly	17738	na
+contig34	unplaced-scaffold	na	na	JDUW01000034.1	=	NZ_JDUW01000034.1	Primary Assembly	15681	na
+contig35	unplaced-scaffold	na	na	JDUW01000035.1	=	NZ_JDUW01000035.1	Primary Assembly	13892	na
+contig36	unplaced-scaffold	na	na	JDUW01000036.1	=	NZ_JDUW01000036.1	Primary Assembly	12382	na
+contig37	unplaced-scaffold	na	na	JDUW01000037.1	=	NZ_JDUW01000037.1	Primary Assembly	11084	na
+contig38	unplaced-scaffold	na	na	JDUW01000038.1	=	NZ_JDUW01000038.1	Primary Assembly	2619	na
+contig39	unplaced-scaffold	na	na	JDUW01000039.1	=	NZ_JDUW01000039.1	Primary Assembly	5896	na
+contig40	unplaced-scaffold	na	na	JDUW01000040.1	=	NZ_JDUW01000040.1	Primary Assembly	7587	na
+contig41	unplaced-scaffold	na	na	JDUW01000041.1	=	NZ_JDUW01000041.1	Primary Assembly	3272	na
+contig42	unplaced-scaffold	na	na	JDUW01000042.1	=	NZ_JDUW01000042.1	Primary Assembly	2612	na
+contig43	unplaced-scaffold	na	na	JDUW01000043.1	=	NZ_JDUW01000043.1	Primary Assembly	2282	na
+contig44	unplaced-scaffold	na	na	JDUW01000044.1	=	NZ_JDUW01000044.1	Primary Assembly	2232	na
+contig45	unplaced-scaffold	na	na	JDUW01000045.1	=	NZ_JDUW01000045.1	Primary Assembly	2189	na
+contig46	unplaced-scaffold	na	na	JDUW01000046.1	=	NZ_JDUW01000046.1	Primary Assembly	1650	na
+contig47	unplaced-scaffold	na	na	JDUW01000047.1	=	NZ_JDUW01000047.1	Primary Assembly	1609	na
+contig48	unplaced-scaffold	na	na	JDUW01000048.1	=	NZ_JDUW01000048.1	Primary Assembly	1593	na
+contig49	unplaced-scaffold	na	na	JDUW01000049.1	=	NZ_JDUW01000049.1	Primary Assembly	1430	na
+contig50	unplaced-scaffold	na	na	JDUW01000050.1	=	NZ_JDUW01000050.1	Primary Assembly	1325	na
+contig51	unplaced-scaffold	na	na	JDUW01000051.1	=	NZ_JDUW01000051.1	Primary Assembly	1115	na
+contig52	unplaced-scaffold	na	na	JDUW01000052.1	=	NZ_JDUW01000052.1	Primary Assembly	798	na
+contig53	unplaced-scaffold	na	na	JDUW01000053.1	=	NZ_JDUW01000053.1	Primary Assembly	771	na
+contig54	unplaced-scaffold	na	na	JDUW01000054.1	=	NZ_JDUW01000054.1	Primary Assembly	749	na
+contig55	unplaced-scaffold	na	na	JDUW01000055.1	=	NZ_JDUW01000055.1	Primary Assembly	472	na
+contig57	unplaced-scaffold	na	na	JDUW01000056.1	=	NZ_JDUW01000056.1	Primary Assembly	422	na
+contig58	unplaced-scaffold	na	na	JDUW01000057.1	=	NZ_JDUW01000057.1	Primary Assembly	412	na
+contig59	unplaced-scaffold	na	na	JDUW01000058.1	=	NZ_JDUW01000058.1	Primary Assembly	395	na
+contig60	unplaced-scaffold	na	na	JDUW01000059.1	=	NZ_JDUW01000059.1	Primary Assembly	370	na
+contig61	unplaced-scaffold	na	na	JDUW01000060.1	=	NZ_JDUW01000060.1	Primary Assembly	323	na
