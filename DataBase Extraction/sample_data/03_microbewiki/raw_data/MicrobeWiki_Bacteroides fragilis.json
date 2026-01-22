@@ -1,0 +1,27 @@
+{
+    "Classification": [
+        "Kingdom: Bacteria\nPhylum:\tBacteroidetes\nClass: Bacteroidia\nOrder: Bacteroidales\nFamily: Bacteroidaceae\nGenus: Bacteroides\nSpecies: Bacteroides fragilis"
+    ],
+    "Introduction": [
+        "Bacteroides fragilis is an anaerobic, non-spore-forming, Gram-negative, rod-shaped bacterium found in the human colon.[1] Although it is relatively rare compared to other species of Bacteroides, it is the most common clinical isolate of its genus.[2] Enterotoxigenic B. fragilis (ETBF) is responsible for a large number of opportunistic infections in hospitals and contributes significantly to morbidity and mortality; in addition, ETBF is known to cause serious complications such as colorectal cancer and colitis.[3] Although B. fragilis has traditionally been investigated as a common infectious disease, there is mounting evidence that nontoxic B. fragilis (NTBF) plays an important beneficial role in the human microbiome. This bacterium is of interest to researchers because of its ability to evade immune responses and its evolving drug resistance, as well as the beneficial effects some strains may have."
+    ],
+    "Genetics": [
+        "Diagnosis with ETBF is confirmed by using PCR to determine the presence of genes coding for B. fragilis toxins.[4] A single stretch of DNA approximately 6,000 base pairs long distinguishes enterotoxic from nontoxic strains of B. fragilis.[5] This 6-kb region contains not only the bft gene, but also a 700-bp series of promotors. There are no fewer than three variants of the bft gene that codes for these toxins. These three gene variants are nearly identical; two of the genes, BFT-1 and BFT-2, are 95% similar.[6] BFT-3 is more than 90% similar to BFT-1, and 96% identical to BFT-2.[7] Despite the extreme similarity between these three gene variants, together they may code for as many as 25 different amino acid changes in the final protein.",
+        "In addition, sequencing the genome of one strain B. fragilis has revealed numerous stretches of inverted DNA, creating a vast array of potential configurations of the outer membrane including eight different polysaccharides.[8] This extensive diversity allows B. fragilis as a species to evade attempts by the immune system to recognize and destroy it."
+    ],
+    "Microbiome": {
+        "Microbiome": [],
+        "Enterotoxic_Strains": [
+            "BF toxin causes dramatic inflammation and \"loss of cell-to-cell attachments\" which causes characteristic abdominal pain and diarrhea.[9] The toxin works by cleaving E-cadherin[10], which regulates HT29/C1 cell growth in the colon.[11] ETBF also upregulates the antiapoptotic protein cIAP2.[12] Finally, ETBF releases several proinflammatory chemokines.[13] The cumulative result is that cells in the colon proliferate more rapidly, become isolated and inflamed, and become resistant to programmed cell death, increasing the risk of cancer and causing painful diarrhea."
+        ],
+        "Nontoxic_Strains": [
+            "Some strains of B. fragilis are nontoxic and even beneficial to their host organism. In germ-free mice, colonization with B. fragilis restores the activity of CD4+ T cells [14] A single molecule produced by NTBF, polysaccharide A (PSA), has been shown to protect against colitis by upregulating production of interleukin-10, a powerful anti-inflammatory cytokine. In germ-free animals with poorly-functioning immune systems, NTBF colonization dramatically improved spleen morphology, indicating that PSA may play a role in lymphocyte development.[15]",
+            "In addition to improving immune function, B. fragilis may have an effect on behavioral health. In a mouse model for Autism Spectrum Disorder (ASD), colonization with NTBF reduced or eliminated abnormalities in the expression of multiple genes and \"correct[ed] intestinal permeability\" in the colon.[16] The same study showed that NTBF colonization may have also served as a treatment for various behavioral symptoms associated with ASD, such as anxiety, repetitive behaviors, and inability or refusal to communicate. All of these improvements occurred even when the mice were colonized with a PSA-deficient strain of B. fragilis.",
+            "Edited by James Cawthon, student of Joan Slonczewski for BIOL 116 Information in Living Systems, 2019, Kenyon College."
+        ]
+    },
+    "References": [
+        "Edited by James Cawthon, student of Joan Slonczewski for BIOL 116 Information in Living Systems, 2019, Kenyon College."
+    ],
+    "encoding": "utf-8"
+}

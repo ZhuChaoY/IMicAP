@@ -1,0 +1,46 @@
+{
+    "Classification": {
+        "Classification": [
+            "Bacteria; Proteobacteria; Beta Proteobacteria; Burkholderiales; Ralstoniaceae",
+            "Ralstonia Pickettii",
+            "Synonyms:\nBurkholderia picketti,\nBurkholderia solanacearum,\nAlcaligenes eutrophus",
+            "Strains: 12J,12D"
+        ],
+        "Ralstonia_Picketti": [
+            "Ralstonia Pickettii",
+            "Synonyms:\nBurkholderia picketti,\nBurkholderia solanacearum,\nAlcaligenes eutrophus",
+            "Strains: 12J,12D"
+        ]
+    },
+    "Description_and_Significance": [
+        "Ralstonia pickettii is a gram-negative, rod shaped beta proteobacteria found in moist environments such as soils, river and lakes [2].  It has also been identified in biofilms in plastic water pipes [1]. It is an olgiotrophic organism, making it capable of surviving in areas with a very low concentration of nutrients [1].  Several strains have shown an ability to survive in environments highly contaminated with metals such as Copper (Cu), Nickel (Ni), Iron (Fe) and Zinc (Zn). The ability to persist in these harsh conditions makes R. picketti a unique candidate for bioremediation.  In a study done by Fett et al., R. pickettii was shown to be resistant to environments with up to 1200 \u00b5g/mL of Cu, surviving by using phosphates to sequester the metal [3]."
+    ],
+    "Genome_Structure": [
+        "There are two separate strains of Ralstonia pickettii, 12 D and 12 J of sizes 3.5 Mb and 3.0 Mb respectively [7].  While their rRNA sequence is indentical, there are significant differences in their genomic structures [7].  The 12 D strain contains two circular chromosomes 3,647,724bp and 1,323,321 bp in size; as well as three circular plasmids 389,779 bp, 273,136 bp and 51,398 bp in size [8].  The 12 J strand also consists of two circular chromosomes  3,942,557 bp and 1,302,228 bp in size; but has only one circular plasmid that is 80,934 bp in size [9]."
+    ],
+    "Cell_Structure_and_Metabolism": [
+        "Ralstonia pickettii is a gram-negative rod shaped bacteria. These bacteria are culturable in the lab and often form dense dark white colonies.  It is strictly an aerobe and is not capable of fermentive respiration [4].  As a chemoheterotroph it depends on an outside carbon source for cell growth, meaning that in remediation, biostimulation can result in increased results of disposing of the pollutant [1].  And, as a siderophore, R. pickettii thrives in environments containing high levels of Iron, and is capable of sollublizing Fe3+ [5].  R. pickettii can also break down several aromatic hydrocarbons or volatile organic compounds (VOC\u2019s) such as cresol (C7H8O), phenol (C6H5OH) and toluene (C7H8).  These chemical compounds are commonly found in household products including antiseptics, germicides and cleaners.  They are hazardous to the environment, and often accumulate to toxic levels in soil and groundwater [1].  R. pickettii is able to exploit this resource by using the hydrocarbons as both a source of carbon and energy.  This process is achieved through a series of multi-enzyme pathways, including the Tbu pathway which converts aromatic hydrocarbons to catechols [1].  Another distinguishing feature of this bacteria is that is can metabolize aromatic hydrocarbons in hypoxic environments.  Unlike other toluene metabolizing bacteria, R. pickettii can break down toluene even when oxygen levels are only 25% of air-saturated water [1]."
+    ],
+    "Pathogenesis": [
+        "Ralstonia pickettii pathology does not follow an easy definition; although no fully healthy human has ever become ill from R. pickettii, the bacteria has seriously affected humans with poor health. Several hospitals have reported outbreaks - in particular, patients with cystic fibrosis and Crohn\u2019s Disease have been shown to be infected R. pickettii  [2].  Of the 55 reported cases of infection by R. pickettii, the majority are due to contaminated solutions such as water, saline and sterile drugs [6].  These solutions are usually contaminated when the product is manufactured, due to the fact that R. pickettii has the ability to pass through 0.45 and 0.2mm filters that are used to stearilize medicinal products [6].  As a result when given as a drip solution, intravenously, or for endotracheal suctioning these contaminated solutions often lead infection in both the blood stream and the respiratory system [6]."
+    ],
+    "Ecology_and_Biotechnology": [
+        "The ability of Ralstonia pickettii to withstand high metal concentrations led to multiple test to determine if the bacteria could be used for bioremediation. The fact that R. pickettii grows easily in so many environments and does act as a pathogen makes it a great option. In vitro tests have shown that through biostimulation, R. pickettii was capable of degrading such contaminates as TCE and aromatic hydrocarbons [1]. The PKO1 strain has a future to be a great biodegrader as it was capable of remediating several pollutants [1].  The LD1 strain showed the ability to degrade chlorinated phenolic compounds [1]. These CPC\u2019s were frequently used, as pesticides are an extremely common contaminate [1]."
+    ],
+    "References": [
+        "1. Adley C, Pembroke J, Ryan M. (Feb 2007) Ralstonia pickettii in environmental biotechnology potential and applications. Journal of Applied Microbiolgy. Vol 103. pp 754-764.",
+        "2. Coenye T, De Vos P, Goris J, Vandamme P. (2003). Classification of Ralstonia pickettii-like isolates from the environment and clinical samples as Ralstonia insidiosa. International Journal of Systematic and Evolutionary Microbiology. Vol 53. 2003 pp 1075-1080",
+        "3. Fett J, Konstantinidis K, Isaacs N, Long D, Marsh T. (Feb 2003).Microbial Diversity and Resistance to Copper in Metal-Contaminated Lake Sediment. Microbial Ecology. Vol 45. Feb 2003. pp 191-202",
+        "4. Buckner D, Colona P. (Jul 1997) Nomenclature for Aerobic and Facultative Bacteria. Clinical Infectious Diseases. Vol 25. pp 1-10",
+        "5. Biebl M, Bonatti H, Eller M, Fille M, Hoeller E, Lass-Floerl C, Stelzmueller I, Weiss G. (2006) Ralstonia pickettii-innocent bystander or a potential threat?.  Clinical Microbial Infect. Vol 12. pp 99-101",
+        "6. Ryan, M. P., J. T. Pembroke, and C. C. Adley. (2006) Ralstonia Pickettii: a Persistent Gram-negative Nosocomial Infectious Organism.\" Journal of Hospital Infection Vol 62. March 2006. pp278-84.",
+        "7. \"Ralstonia Pickettii.\" JGI Genome Portal - Home. Web. 25 Apr. 2010. <http://genome.jgi-psf.org/ralpd/ralpd.home.html>.",
+        "8. \"HAMAP: Ralstonia Pickettii (strain 12D) Complete Proteome.\" ExPASy Proteomics Server. Swiss Institute for Bioinformatics. Web. 25 Apr. 2010. <http://www.expasy.ch/sprot/hamap/RALP1.html>.",
+        "9. \"HAMAP: Ralstonia Pickettii (strain 12J) Complete Proteome.\" ExPASy Proteomics Server. Swiss Institute for Bioinformatics. Web. 25 Apr. 2010. <http://expasy.org/sprot/hamap/RALPJ.html>."
+    ],
+    "Author": [
+        "Page authored by Jeff Eggleston and Sarah Dionne, students of Prof. Jay Lennon at Michigan State University.",
+        "<-- Do not remove this line-->"
+    ],
+    "encoding": "utf-8"
+}
