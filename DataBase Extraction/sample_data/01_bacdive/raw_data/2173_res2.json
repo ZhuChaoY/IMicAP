@@ -1,0 +1,357 @@
+{
+    "General": {
+        "@ref": 1057,
+        "BacDive-ID": 6965,
+        "DSM-Number": 2375,
+        "keywords": [
+            "genome sequence",
+            "16S sequence",
+            "anaerobe",
+            "mesophilic"
+        ],
+        "description": "Methanobrevibacter smithii ALI is an anaerobe, mesophilic prokaryote that was isolated from human large intestine.",
+        "NCBI tax id": [
+            {
+                "NCBI tax id": 483214,
+                "Matching level": "strain"
+            },
+            {
+                "NCBI tax id": 2173,
+                "Matching level": "species"
+            }
+        ],
+        "strain history": {
+            "@ref": 1057,
+            "history": "<- T. L. Miller, New York State Department of Health, Albany, New York, USA; ALI <- T. L. Miller and M. J. Wolin {1980}"
+        },
+        "doi": "10.13145/bacdive6965.20251217.10"
+    },
+    "Name and taxonomic classification": {
+        "LPSN": {
+            "@ref": 20215,
+            "description": "kingdom/methanobacteriati",
+            "keyword": "phylum/methanobacteriota",
+            "phylum": "Methanobacteriota",
+            "class": "Methanobacteria",
+            "order": "Methanobacteriales",
+            "family": "Methanobacteriaceae",
+            "genus": "Methanobrevibacter",
+            "species": "Methanobrevibacter smithii",
+            "full scientific name": "<I>Methanobrevibacter</I> <I>smithii</I> Balch and Wolfe 1981",
+            "synonyms": {
+                "@ref": 20215,
+                "synonym": "Methanocatella smithii"
+            }
+        },
+        "@ref": 1057,
+        "domain": "Archaea",
+        "phylum": "Euryarchaeota",
+        "class": "Methanobacteria",
+        "order": "Methanobacteriales",
+        "family": "Methanobacteriaceae",
+        "genus": "Methanobrevibacter",
+        "species": "Methanobrevibacter smithii",
+        "full scientific name": "Methanobrevibacter smithii Balch and Wolfe 1981",
+        "strain designation": "ALI",
+        "type strain": "no"
+    },
+    "Morphology": {
+        "colony morphology": {
+            "@ref": 1057,
+            "incubation period": "2-3 days"
+        }
+    },
+    "Culture and growth conditions": {
+        "culture medium": [
+            {
+                "@ref": 1057,
+                "name": "MODIFIED METHANOBACTERIUM MEDIUM (DSMZ Medium 1523)",
+                "growth": "yes",
+                "link": "https://mediadive.dsmz.de/medium/1523",
+                "composition": "Name: MODIFIED METHANOBACTERIUM MEDIUM (DSMZ Medium 1523)\nComposition:\nBrain heart infusion 5.98802 g/l\nProteose peptone 5.98802 g/l\nNaHCO3 3.99202 g/l\nYeast extract 1.99601 g/l\nNa-formate 1.99601 g/l\nNa-acetate 0.998004 g/l\nNa2S x 9 H2O 0.499002 g/l\nKH2PO4 0.499002 g/l\nL-Cysteine HCl x H2O 0.499002 g/l\nMgSO4 x 7 H2O 0.399202 g/l\nNH4Cl 0.399202 g/l\nNaCl 0.399202 g/l\nCaCl2 x 2 H2O 0.0499002 g/l\nHCl 0.00249501 g/l\nFeCl2 x 4 H2O 0.00149701 g/l\nSodium resazurin 0.000499002 g/l\nPyridoxine hydrochloride 0.000299401 g/l\nThiamine-HCl x 2 H2O 0.000199601 g/l\nNicotinic acid 0.000199601 g/l\nCoCl2 x 6 H2O 0.000189621 g/l\nCalcium pantothenate 9.98004e-05 g/l\nVitamin B12 9.98004e-05 g/l\nMnCl2 x 4 H2O 9.98004e-05 g/l\np-Aminobenzoic acid 7.98403e-05 g/l\nZnCl2 6.98603e-05 g/l\nNa2MoO4 x 2 H2O 3.59281e-05 g/l\nNiCl2 x 6 H2O 2.39521e-05 g/l\nD-(+)-biotin 1.99601e-05 g/l\nH3BO3 5.98802e-06 g/l\nCuCl2 x 2 H2O 1.99601e-06 g/l\nDistilled water"
+            },
+            {
+                "@ref": 1057,
+                "name": "METHANOBACTERIUM MEDIUM (DSMZ Medium 119)",
+                "growth": "yes",
+                "link": "https://mediadive.dsmz.de/medium/119",
+                "composition": "Name: METHANOBACTERIUM MEDIUM (DSMZ Medium 119)\nComposition:\nNaHCO3 3.98804 g/l\nNa-formate 1.99402 g/l\nNa-acetate 0.997009 g/l\nNa2S x 9 H2O 0.498504 g/l\nL-Cysteine HCl x H2O 0.498504 g/l\nKH2PO4 0.498504 g/l\nNH4Cl 0.398804 g/l\nNaCl 0.398804 g/l\nMgSO4 x 7 H2O 0.398804 g/l\nYeast extract 0.199402 g/l\nCaCl2 x 2 H2O 0.0498504 g/l\nHCl 0.00249252 g/l\nFeSO4 x 7 H2O 0.00199402 g/l\nFeCl2 x 4 H2O 0.00149551 g/l\nSodium resazurin 0.000498504 g/l\nCoCl2 x 6 H2O 0.000189432 g/l\nMnCl2 x 4 H2O 9.97009e-05 g/l\nZnCl2 6.97906e-05 g/l\nNa2MoO4 x 2 H2O 3.58923e-05 g/l\nNiCl2 x 6 H2O 2.39282e-05 g/l\nH3BO3 5.98205e-06 g/l\nCuCl2 x 2 H2O 1.99402e-06 g/l\nIsobutyric acid\nDL-2-Methylbutyric acid\nValeric acid\nIsovaleric acid\nH2SO4\nSludge\nDistilled water"
+            }
+        ],
+        "culture temp": {
+            "@ref": 1057,
+            "growth": "positive",
+            "type": "growth",
+            "temperature": "37"
+        }
+    },
+    "Physiology and metabolism": {
+        "oxygen tolerance": {
+            "@ref": 1057,
+            "oxygen tolerance": "anaerobe"
+        }
+    },
+    "Isolation, sampling and environmental information": {
+        "isolation": {
+            "@ref": 1057,
+            "sample type": "human large intestine",
+            "country": "USA",
+            "origin.country": "USA",
+            "continent": "North America"
+        },
+        "isolation source categories": [
+            {
+                "Cat1": "#Host",
+                "Cat2": "#Human"
+            },
+            {
+                "Cat1": "#Host Body-Site",
+                "Cat2": "#Gastrointestinal tract",
+                "Cat3": "#Large intestine"
+            }
+        ]
+    },
+    "Interaction and safety": {
+        "risk assessment": {
+            "@ref": 1057,
+            "biosafety level": "1",
+            "biosafety level comment": "Risk group (German classification)"
+        }
+    },
+    "Sequence information": {
+        "Genome sequences": {
+            "@ref": 66792,
+            "description": "ASM15124v1 assembly for Methanobrevibacter smithii DSM 2375",
+            "assembly level": "scaffold",
+            "INSDC accession": "GCA_000151245",
+            "BV-BRC accession": "483214.13",
+            "IMG accession": "643886144",
+            "NCBI tax ID": 483214,
+            "score": 73.59
+        },
+        "16S sequences": {
+            "@ref": 20218,
+            "description": "Methanobrevibacter smithii partial SSU rRNA, phylotype 2",
+            "accession": "AJ001710",
+            "length": 599,
+            "database": "nuccore",
+            "NCBI tax ID": 483214
+        }
+    },
+    "Genome-based predictions": {},
+    "Literature": {
+        "@ref": 1057,
+        "culture collection no.": "DSM 2375",
+        "straininfo link": {
+            "@ref": 126262,
+            "straininfo": 47601
+        },
+        "literature": [
+            {
+                "title": "Proteomic and metabolomic profiling of extracellular vesicles produced by human gut archaea",
+                "authors": "Weinberger V, Darnhofer B, Thapa H, Mertelj P, Stentz R, Jones E, Grabmann G, Mohammadzadeh R, Shinde T, Karner C, Ober J, Juodeikis R, Pernitsch D, Hingerl K, Zurabishvili T, Kumpitsch C, Kuehnast T, Rinner B, Strohmaier H, Kolb D, Gotts K, Weichhart T, Kocher T, Kofeler H, Carding S, Schild S, Moissl-Eichinger C.",
+                "journal": "Nat Commun",
+                "year": 2025,
+                "mesh": "Secretion, Chemokines, Cellular microbiology, Archaeal Biology"
+            },
+            {
+                "Pubmed-ID": "10603368",
+                "title": "Archaeosome vaccine adjuvants induce strong humoral, cell-mediated, and memory responses: comparison to conventional liposomes and alum.",
+                "authors": "Krishnan L, Dicaire CJ, Patel GB, Sprott GD.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.68.1.54-63.2000",
+                "year": 2000,
+                "mesh": "immunology, administration & dosage, immunology, administration & dosage, administration & dosage"
+            },
+            {
+                "Pubmed-ID": "15803661",
+                "title": "Archaeosomes varying in lipid composition differ in receptor-mediated endocytosis and differentially adjuvant immune responses to entrapped antigen.",
+                "authors": "Sprott GD, Sad S, Fleming LP, Dicaire CJ, Patel GB, Krishnan L.",
+                "journal": "Archaea",
+                "DOI": "10.1155/2003/569283",
+                "year": 2003,
+                "mesh": "immunology, immunology"
+            },
+            {
+                "Pubmed-ID": "21206916",
+                "title": "Intranasal immunization with an archaeal lipid mucosal vaccine adjuvant and delivery formulation protects against a respiratory pathogen challenge.",
+                "authors": "Patel GB, Zhou H, Ponce A, Harris G, Chen W.",
+                "journal": "PLoS One",
+                "DOI": "10.1371/journal.pone.0015574",
+                "year": 2010,
+                "mesh": "microbiology, methods, Administration, Intranasal"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "23557328",
+                "title": "Mimiviridae: clusters of orthologous genes, reconstruction of gene repertoire evolution and proposed expansion of the giant virus family.",
+                "authors": "Yutin N, Colson P, Raoult D, Koonin EV.",
+                "journal": "Virol J",
+                "DOI": "10.1186/1743-422x-10-106",
+                "year": 2013,
+                "mesh": "Evolution, Molecular, Genes, Viral, Genome, Viral, classification, genetics",
+                "topic2": "Genetics"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "25473158",
+                "title": "Archaea and the human gut: new beginning of an old story.",
+                "authors": "Gaci N, Borrel G, Tottey W, O'Toole PW, Brugere JF.",
+                "journal": "World J Gastroenterol",
+                "DOI": "10.3748/wjg.v20.i43.16062",
+                "year": 2014,
+                "mesh": "Trimethylamine, Probiotics, Cardiovascular disease, Methane, Methanogens, Trimethylaminuria, Archaebiotics, Human Gut Microbiota, Methanomassiliicoccus, Methanomethylophilus, physiology, metabolism, metabolism, Microbiota"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "27485508",
+                "title": "Pipeline for amplifying and analyzing amplicons of the V1-V3 region of the 16S rRNA gene.",
+                "authors": "Allen HK, Bayles DO, Looft T, Trachsel J, Bass BE, Alt DP, Bearson SM, Nicholson T, Casey TA.",
+                "journal": "BMC Res Notes",
+                "DOI": "10.1186/s13104-016-2172-6",
+                "year": 2016,
+                "mesh": "16S rRNA gene, Microbial ecology, Miseq, Mock Community, genetics, genetics, genetics, methods, Metagenome, genetics",
+                "topic2": "Genetics"
+            },
+            {
+                "topic": "Genetics",
+                "Pubmed-ID": "27738135",
+                "title": "IMG/M: integrated genome and metagenome comparative data analysis system.",
+                "authors": "Chen IA, Markowitz VM, Chu K, Palaniappan K, Szeto E, Pillay M, Ratner A, Huang J, Andersen E, Huntemann M, Varghese N, Hadjithomas M, Tennessen K, Nielsen T, Ivanova NN, Kyrpides NC.",
+                "journal": "Nucleic Acids Res",
+                "DOI": "10.1093/nar/gkw929",
+                "year": 2017,
+                "mesh": "methods, Software, Metagenome, methods, genetics"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "33919946",
+                "title": "Structural Insights into the Methane-Generating Enzyme from a Methoxydotrophic Methanogen Reveal a Restrained Gallery of Post-Translational Modifications.",
+                "authors": "Kurth JM, Muller MC, Welte CU, Wagner T.",
+                "journal": "Microorganisms",
+                "DOI": "10.3390/microorganisms9040837",
+                "year": 2021,
+                "mesh": "Post-translational modifications, X-ray crystallography, Methyl-coenzyme M Reductase, Thermophilic Archaeon, F430-Cofactor, Methoxydotrophic Methanogenesis"
+            },
+            {
+                "Pubmed-ID": "35650275",
+                "title": "The sanitary indoor environment-a potential source for intact human-associated anaerobes.",
+                "authors": "Pausan MR, Blohs M, Mahnert A, Moissl-Eichinger C.",
+                "journal": "NPJ Biofilms Microbiomes",
+                "DOI": "10.1038/s41522-022-00305-z",
+                "year": 2022,
+                "mesh": "Microbiota"
+            },
+            {
+                "Pubmed-ID": "36643444",
+                "title": "Archaeosomes: New Generation of Liposomes Based on Archaeal Lipids for Drug Delivery and Biomedical Applications.",
+                "authors": "Santhosh PB, Genova J.",
+                "journal": "ACS Omega",
+                "DOI": "10.1021/acsomega.2c06034",
+                "year": 2023
+            },
+            {
+                "Pubmed-ID": "37753963",
+                "title": "<i>In vitro</i> interactions between <i>Blautia hydrogenotrophica</i>, <i>Desulfovibrio piger</i> and <i>Methanobrevibacter smithii</i> under hydrogenotrophic conditions.",
+                "authors": "Wang T, Leibrock N, Plugge CM, Smidt H, Zoetendal EG.",
+                "journal": "Gut Microbes",
+                "DOI": "10.1080/19490976.2023.2261784",
+                "year": 2023,
+                "mesh": "Hydrogen, Coculture, Methanogen, Sulfide, Acetate, Formate, Methanobrevibacter, Gastrointestinal Microbiome"
+            },
+            {
+                "Pubmed-ID": "38029083",
+                "title": "Evolving understanding of rumen methanogen ecophysiology.",
+                "authors": "Khairunisa BH, Heryakusuma C, Ike K, Mukhopadhyay B, Susanti D.",
+                "journal": "Front Microbiol",
+                "DOI": "10.3389/fmicb.2023.1296008",
+                "year": 2023,
+                "mesh": "Archaea, Ruminants, Methane, Methanogen, Greenhouse gas, Rumen, Microbiome"
+            },
+            {
+                "topic": "Genetics",
+                "Pubmed-ID": "39217206",
+                "title": "Targeted isolation of Methanobrevibacter strains from fecal samples expands the cultivated human archaeome.",
+                "authors": "Duller S, Vrbancic S, Szydlowski L, Mahnert A, Blohs M, Predl M, Kumpitsch C, Zrim V, Hogenauer C, Kosciolek T, Schmitz RA, Eberhard A, Dragovan M, Schmidberger L, Zurabischvili T, Weinberger V, Moser AM, Kolb D, Pernitsch D, Mohammadzadeh R, Kuhnast T, Rattei T, Moissl-Eichinger C.",
+                "journal": "Nat Commun",
+                "DOI": "10.1038/s41467-024-52037-7",
+                "year": 2024,
+                "mesh": "Feces, Methanobrevibacter, Genome, Archaeal, Gastrointestinal Microbiome"
+            },
+            {
+                "Pubmed-ID": "39231967",
+                "title": "Stable coexistence between an archaeal virus and the dominant methanogen of the human gut.",
+                "authors": "Baquero DP, Medvedeva S, Martin-Gallausiaux C, Pende N, Sartori-Rupp A, Tachon S, Pedron T, Debarbieux L, Borrel G, Gribaldo S, Krupovic M.",
+                "journal": "Nat Commun",
+                "DOI": "10.1038/s41467-024-51946-x",
+                "year": 2024,
+                "mesh": "Archaeal Viruses, Methanobrevibacter, Gastrointestinal Microbiome"
+            },
+            {
+                "Pubmed-ID": "39347381",
+                "title": "<i>Methanobrevibacter smithii</i> cell variants in human physiology and pathology: A review.",
+                "authors": "Malat I, Drancourt M, Grine G.",
+                "journal": "Heliyon",
+                "DOI": "10.1016/j.heliyon.2024.e36742",
+                "year": 2024,
+                "mesh": "Archaea, Microbiota, Methane, Methanogens, Methanobrevibacter, Methanobrevibacter Smithii, Nanoarchaea, Candidatus Nanopusillus Phoceensis"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "40237437",
+                "title": "Expanding the cultivable human archaeome: <i>Methanobrevibacter intestini</i> sp. nov. and strain <i>Methanobrevibacter smithii</i> 'GRAZ-2' from human faeces.",
+                "authors": "Weinberger V, Mohammadzadeh R, Blohs M, Kalt K, Mahnert A, Moser S, Cecovini M, Mertelj P, Zurabishvili T, Arora B, Wolf J, Shinde T, Madl T, Habisch H, Kolb D, Pernitsch D, Hingerl K, Metcalf W, Moissl-Eichinger C.",
+                "journal": "Int J Syst Evol Microbiol",
+                "DOI": "10.1099/ijsem.0.006751",
+                "year": 2025,
+                "mesh": "Methanobrevibacter Smithii, Human Archaeome, Methanobrevibacter Intestini, Faecal Methanogens, Feces, Methanobrevibacter, Phylogeny"
+            }
+        ]
+    },
+    "Reference": [
+        {
+            "@id": 1057,
+            "authors": "Curators of the DSMZ",
+            "catalogue": "Leibniz Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSM 2375)",
+            "doi/url": "https://www.dsmz.de/collection/catalogue/details/culture/DSM-2375"
+        },
+        {
+            "@id": 20215,
+            "authors": "Parte, A.C., Sard\u00e0 Carbasse, J., Meier-Kolthoff, J.P., Reimer, L.C. and G\u00f6ker, M.",
+            "title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+            "doi/url": "10.1099/ijsem.0.004332"
+        },
+        {
+            "@id": 20218,
+            "authors": "Verslyppe, B., De Smet, W., De Baets, B., De Vos, P., Dawyndt P.",
+            "title": "StrainInfo introduces electronic passports for microorganisms.",
+            "journal": "Syst Appl Microbiol. 37: 42-50 2014",
+            "doi/url": "10.1016/j.syapm.2013.11.002",
+            "pubmed": 24321274
+        },
+        {
+            "@id": 66792,
+            "authors": "Julia Koblitz, Joaquim Sard\u00e0, Lorenz Christian Reimer, Boyke Bunk, J\u00f6rg Overmann",
+            "title": "Automatically annotated for the DiASPora project (Digital Approaches for the Synthesis of Poorly Accessible Biodiversity Information)",
+            "doi/url": "https://diaspora-project.de/progress.html#genomes"
+        },
+        {
+            "@id": 125438,
+            "authors": "Julia Koblitz, Lorenz Christian Reimer, R\u00fcdiger Pukall, J\u00f6rg Overmann",
+            "title": "Predicting bacterial phenotypic traits through improved machine learning using high-quality, curated datasets",
+            "doi/url": "10.1101/2024.08.12.607695"
+        },
+        {
+            "@id": 125439,
+            "authors": "Philipp M\u00fcnch, Ren\u00e9 Mreches, Martin Binder, H\u00fcseyin Anil G\u00fcnd\u00fcz, Xiao-Yin To, Alice McHardy",
+            "title": "deepG: Deep Learning for Genome Sequence Data. R package version 0.3.1",
+            "doi/url": "https://github.com/GenomeNet/deepG"
+        },
+        {
+            "@id": 126262,
+            "authors": "A. Lissin, I. Schober, J. F. Witte, H. L\u00fcken, A. Podstawka, J. Koblitz, B. Bunk, P. Dawyndt, P. Vandamme, P. de Vos, J. Overmann, L. C. Reimer",
+            "title": "StrainInfo\u2014the central database for linked microbial strain identifiers",
+            "doi/url": "10.1093/database/baaf059"
+        }
+    ]
+}

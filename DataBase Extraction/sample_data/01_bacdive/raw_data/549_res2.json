@@ -1,0 +1,146 @@
+{
+    "General": {
+        "@ref": 67770,
+        "BacDive-ID": 162782,
+        "keywords": [
+            "16S sequence",
+            "Bacteria",
+            "mesophilic"
+        ],
+        "description": "Pantoea agglomerans JCM 20143 is a mesophilic bacterium that was isolated from Plant.",
+        "NCBI tax id": {
+            "NCBI tax id": 549,
+            "Matching level": "species"
+        },
+        "strain history": {
+            "@ref": 67770,
+            "history": "IAM 1309 <-- ATCC 12287 <-- N. James (\"<I>Xanthomonas trifolii</I>\")."
+        },
+        "doi": "10.13145/bacdive162782.20241212.9.2"
+    },
+    "Name and taxonomic classification": {
+        "LPSN": {
+            "@ref": 20215,
+            "description": "domain/bacteria",
+            "keyword": "phylum/pseudomonadota",
+            "domain": "Bacteria",
+            "phylum": "Pseudomonadota",
+            "class": "Gammaproteobacteria",
+            "order": "Enterobacterales",
+            "family": "Erwiniaceae",
+            "genus": "Pantoea",
+            "species": "Pantoea agglomerans",
+            "full scientific name": "<I>Pantoea</I> <I>agglomerans</I> (Beijerinck 1888) Gavini et al. 1989",
+            "synonyms": [
+                {
+                    "@ref": 20215,
+                    "synonym": "Bacillus agglomerans"
+                },
+                {
+                    "@ref": 20215,
+                    "synonym": "Bacillus milletiae"
+                },
+                {
+                    "@ref": 20215,
+                    "synonym": "Bacterium herbicola"
+                },
+                {
+                    "@ref": 20215,
+                    "synonym": "Enterobacter agglomerans"
+                },
+                {
+                    "@ref": 20215,
+                    "synonym": "Erwinia herbicola"
+                },
+                {
+                    "@ref": 20215,
+                    "synonym": "Erwinia milletiae"
+                }
+            ]
+        },
+        "@ref": 67770,
+        "domain": "Bacteria",
+        "phylum": "Proteobacteria",
+        "class": "Gammaproteobacteria",
+        "order": "Enterobacterales",
+        "family": "Erwiniaceae",
+        "genus": "Pantoea",
+        "species": "Pantoea agglomerans",
+        "full scientific name": "<I>Pantoea</I> <I>agglomerans</I> (Ewing and Fife 1972) Gavini <I>et al.</I> 1989",
+        "type strain": "no"
+    },
+    "Morphology": {},
+    "Culture and growth conditions": {
+        "culture temp": {
+            "@ref": 67770,
+            "growth": "positive",
+            "type": "growth",
+            "temperature": "25"
+        }
+    },
+    "Physiology and metabolism": {},
+    "Isolation, sampling and environmental information": {
+        "isolation": {
+            "@ref": 67770,
+            "sample type": "Plant"
+        },
+        "taxonmaps": {
+            "@ref": 69479,
+            "File name": "preview.99_1960.png",
+            "url": "https://microbeatlas.org/index.html?action=taxon&taxon_id=90_6;96_310;97_507;98_583;99_1960&stattab=map",
+            "Last taxonomy": "Pantoea",
+            "16S sequence": "LC595314",
+            "Sequence Identity": null,
+            "Total samples": 1833,
+            "soil counts": 48,
+            "aquatic counts": 214,
+            "animal counts": 1357,
+            "plant counts": 214
+        }
+    },
+    "Safety information": {},
+    "Sequence information": {
+        "16S sequences": {
+            "@ref": 67770,
+            "description": "Pantoea agglomerans JCM:20143 gene for 16S rRNA, partial sequence",
+            "accession": "LC595314",
+            "length": 1402,
+            "database": "nuccore",
+            "NCBI tax ID": 549
+        }
+    },
+    "Genome-based predictions": {},
+    "External links": {
+        "@ref": 67770,
+        "culture collection no.": "JCM 20143, ATCC 12287, IAM 1309",
+        "straininfo link": {
+            "@ref": 113598,
+            "straininfo": 35525
+        }
+    },
+    "Reference": [
+        {
+            "@id": 20215,
+            "authors": "Parte, A.C., Sard\u00e0 Carbasse, J., Meier-Kolthoff, J.P., Reimer, L.C. and G\u00f6ker, M.",
+            "title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+            "doi/url": "10.1099/ijsem.0.004332"
+        },
+        {
+            "@id": 67770,
+            "authors": "Curators of the JCM",
+            "doi/url": "https://jcm.brc.riken.jp/en/"
+        },
+        {
+            "@id": 69479,
+            "authors": "Jo\u00e3o F Matias Rodrigues, Janko Tackmann,Gregor Rot, Thomas SB Schmidt, Lukas Malfertheiner, Mihai Danaila,Marija Dmitrijeva, Daniela Gaio, Nicolas N\u00e4pflin and Christian von Mering. University of Zurich.",
+            "title": "MicrobeAtlas 1.0 beta",
+            "doi/url": "https://microbeatlas.org/"
+        },
+        {
+            "@id": 113598,
+            "authors": "Reimer, L.C., Lissin, A.,Schober, I., Witte,J.F., Podstawka, A., L\u00fcken, H., Bunk, B.,Overmann, J.",
+            "title": "StrainInfo: A central database for resolving microbial strain identifiers",
+            "doi/url": "10.60712/SI-ID35525.1"
+        }
+    ]
+}

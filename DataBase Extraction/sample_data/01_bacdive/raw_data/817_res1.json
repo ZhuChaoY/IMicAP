@@ -1,0 +1,2030 @@
+{
+    "General": {
+        "@ref": 762,
+        "BacDive-ID": 1584,
+        "DSM-Number": 1396,
+        "keywords": [
+            "16S sequence",
+            "anaerobe",
+            "mesophilic",
+            "Gram-negative",
+            "rod-shaped",
+            "human pathogen"
+        ],
+        "description": "Sphaerophorus intermedius LRA 048 07 85 is an anaerobe, mesophilic, Gram-negative human pathogen that was isolated from pleural fluid.",
+        "NCBI tax id": {
+            "NCBI tax id": 817,
+            "Matching level": "species"
+        },
+        "strain history": [
+            {
+                "@ref": 762,
+                "history": "<- J. M. Macy; <- ATCC; ATCC 23745 <- B. Hovig; (<i>Sphaerophorus intermedius</i>)"
+            },
+            {
+                "@ref": 119444,
+                "history": "CIP <- 1993, R. Mercier, bioM\u00e9rieux, La Balme-les-Grottes, France: strain LRA 048 07 85 <- 1985, Analytab, Plainview, USA <- 1968, T. Bergan, Oslo, Norway, Sphaerophorus intermedius"
+            }
+        ],
+        "doi": "10.13145/bacdive1584.20251217.10"
+    },
+    "Name and taxonomic classification": {
+        "LPSN": {
+            "@ref": 20215,
+            "description": "kingdom/pseudomonadati",
+            "keyword": "phylum/bacteroidota",
+            "phylum": "Bacteroidota",
+            "class": "Bacteroidia",
+            "order": "Bacteroidales",
+            "family": "Bacteroidaceae",
+            "genus": "Sphaerophorus",
+            "species": "Sphaerophorus intermedius",
+            "full scientific name": "<I>Sphaerophorus</I> <I>intermedius</I> Bergan and Hovig 1968"
+        },
+        "@ref": 762,
+        "domain": "Bacteria",
+        "phylum": "Bacteroidetes",
+        "class": "Bacteroidia",
+        "order": "Bacteroidales",
+        "family": "Bacteroidaceae",
+        "genus": "Bacteroides",
+        "species": "Bacteroides fragilis",
+        "full scientific name": "Bacteroides fragilis (Veillon and Zuber 1898) Castellani and Chalmers 1919 emend. Hahnke et al. 2016",
+        "strain designation": "LRA 048 07 85",
+        "type strain": "no"
+    },
+    "Morphology": {
+        "cell morphology": {
+            "@ref": 119444,
+            "gram stain": "negative",
+            "cell shape": "rod-shaped",
+            "motility": "no"
+        },
+        "colony morphology": [
+            {
+                "@ref": 762,
+                "incubation period": "1-2 days"
+            },
+            {
+                "@ref": 119444,
+                "hemolysis ability": "1"
+            }
+        ]
+    },
+    "Culture and growth conditions": {
+        "culture medium": [
+            {
+                "@ref": 762,
+                "name": "CHOPPED MEAT MEDIUM (DSMZ Medium 78)",
+                "growth": "yes",
+                "link": "https://mediadive.dsmz.de/medium/78",
+                "composition": "Name: CHOPPED MEAT MEDIUM (DSMZ Medium 78; with strain-specific modifications)\nComposition:\nGround beef 500.0 g/l\nCasitone 30.0 g/l\nAgar 15.0 g/l\nEthanol 9.5 g/l (optional)\nK2HPO4 5.0 g/l\nYeast extract 5.0 g/l\nL-Cysteine HCl 0.5 g/l\nHaemin 0.005 g/l\nResazurin 0.001 g/l\nVitamin K3 0.0005 g/l (optional)\nVitamin K1 (optional)\nNaOH (optional)\nDistilled water"
+            },
+            {
+                "@ref": 762,
+                "name": "COLUMBIA BLOOD MEDIUM (DSMZ Medium 693)",
+                "growth": "yes",
+                "link": "https://mediadive.dsmz.de/medium/693",
+                "composition": "Name: COLUMBIA BLOOD MEDIUM (DSMZ Medium 693)\nComposition:\nDefibrinated sheep blood 50.0 g/l\nColumbia agar base"
+            },
+            {
+                "@ref": 42287,
+                "name": "MEDIUM 20 - for Anaerobic bacteria",
+                "growth": "yes",
+                "composition": "Agar (15.000 g);Glucose (5.000 g);Yeast extract (20.000 g);Tryptone (30.000 g);Cysteine hydrochloride (0.500 g);distilled water (1000.000 ml);Hemin solution -M00149 (25.000 ml)"
+            },
+            {
+                "@ref": 762,
+                "name": "FASTIDIOUS ANAEROBE BROTH (DSMZ Medium 1203a)",
+                "growth": "yes",
+                "link": "https://mediadive.dsmz.de/medium/1203a",
+                "composition": "Name: FASTIDIOUS ANAEROBE BROTH (DSMZ Medium 1203a)\nComposition:\nFastidious Anaerobe Basal Broth 35.4 g/l\nDeionized water"
+            },
+            {
+                "@ref": 119444,
+                "name": "CIP Medium 20",
+                "growth": "yes",
+                "link": "https://catalogue-crbip.pasteur.fr/fiche_milieu.xhtml?crbip=20"
+            }
+        ],
+        "culture temp": [
+            {
+                "@ref": 762,
+                "growth": "positive",
+                "type": "growth",
+                "temperature": "37"
+            },
+            {
+                "@ref": 42287,
+                "growth": "positive",
+                "type": "growth",
+                "temperature": "37"
+            }
+        ]
+    },
+    "Physiology and metabolism": {
+        "oxygen tolerance": {
+            "@ref": 762,
+            "oxygen tolerance": "anaerobe"
+        },
+        "metabolite utilization": [
+            {
+                "@ref": 68381,
+                "Chebi-ID": 16443,
+                "metabolite": "D-tagatose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 320055,
+                "metabolite": "methyl beta-D-glucopyranoside",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 28053,
+                "metabolite": "melibiose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 6731,
+                "metabolite": "melezitose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 17306,
+                "metabolite": "maltose",
+                "utilization activity": "+",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 27941,
+                "metabolite": "pullulan",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 28087,
+                "metabolite": "glycogen",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 606565,
+                "metabolite": "hippurate",
+                "utilization activity": "-",
+                "kind of utilization tested": "hydrolysis"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 40585,
+                "metabolite": "alpha-cyclodextrin",
+                "utilization activity": "+",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 18333,
+                "metabolite": "D-arabitol",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 30849,
+                "metabolite": "L-arabinose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 17992,
+                "metabolite": "sucrose",
+                "utilization activity": "+",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 27082,
+                "metabolite": "trehalose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 17716,
+                "metabolite": "lactose",
+                "utilization activity": "+",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 29016,
+                "metabolite": "arginine",
+                "utilization activity": "-",
+                "kind of utilization tested": "hydrolysis"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 17632,
+                "metabolite": "nitrate",
+                "utilization activity": "-",
+                "kind of utilization tested": "reduction"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 27897,
+                "metabolite": "tryptophan",
+                "utilization activity": "-",
+                "kind of utilization tested": "energy source"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 29985,
+                "metabolite": "L-glutamate",
+                "utilization activity": "+",
+                "kind of utilization tested": "degradation"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 16024,
+                "metabolite": "D-mannose",
+                "utilization activity": "+",
+                "kind of utilization tested": "fermentation"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 16634,
+                "metabolite": "raffinose",
+                "utilization activity": "+",
+                "kind of utilization tested": "fermentation"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 29016,
+                "metabolite": "arginine",
+                "utilization activity": "-",
+                "kind of utilization tested": "hydrolysis"
+            },
+            {
+                "@ref": 119444,
+                "Chebi-ID": 4853,
+                "metabolite": "esculin",
+                "utilization activity": "+",
+                "kind of utilization tested": "hydrolysis"
+            },
+            {
+                "@ref": 119444,
+                "Chebi-ID": 17632,
+                "metabolite": "nitrate",
+                "utilization activity": "-",
+                "kind of utilization tested": "reduction"
+            },
+            {
+                "@ref": 119444,
+                "Chebi-ID": 16301,
+                "metabolite": "nitrite",
+                "utilization activity": "-",
+                "kind of utilization tested": "reduction"
+            },
+            {
+                "@ref": 119444,
+                "Chebi-ID": 17632,
+                "metabolite": "nitrate",
+                "utilization activity": "+",
+                "kind of utilization tested": "respiration"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 16199,
+                "metabolite": "urea",
+                "utilization activity": "-",
+                "kind of utilization tested": "hydrolysis"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 16634,
+                "metabolite": "raffinose",
+                "utilization activity": "+",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 30911,
+                "metabolite": "sorbitol",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 16899,
+                "metabolite": "D-mannitol",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68381,
+                "Chebi-ID": 16988,
+                "metabolite": "D-ribose",
+                "utilization activity": "-",
+                "kind of utilization tested": "builds acid from"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 16199,
+                "metabolite": "urea",
+                "utilization activity": "-",
+                "kind of utilization tested": "hydrolysis"
+            }
+        ],
+        "metabolite production": [
+            {
+                "@ref": 68381,
+                "Chebi-ID": 15688,
+                "metabolite": "acetoin",
+                "production": "no"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 35581,
+                "metabolite": "indole",
+                "production": "no"
+            },
+            {
+                "@ref": 119444,
+                "Chebi-ID": 35581,
+                "metabolite": "indole",
+                "production": "no"
+            }
+        ],
+        "metabolite tests": [
+            {
+                "@ref": 68381,
+                "Chebi-ID": 15688,
+                "metabolite": "acetoin",
+                "voges-proskauer-test": "-"
+            },
+            {
+                "@ref": 68380,
+                "Chebi-ID": 35581,
+                "metabolite": "indole",
+                "indole test": "-"
+            }
+        ],
+        "enzymes": [
+            {
+                "@ref": 68382,
+                "value": "leucine arylamidase",
+                "activity": "+",
+                "ec": "3.4.11.1"
+            },
+            {
+                "@ref": 68382,
+                "value": "valine arylamidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 68382,
+                "value": "cystine arylamidase",
+                "activity": "-",
+                "ec": "3.4.11.3"
+            },
+            {
+                "@ref": 68382,
+                "value": "trypsin",
+                "activity": "-",
+                "ec": "3.4.21.4"
+            },
+            {
+                "@ref": 68382,
+                "value": "alpha-chymotrypsin",
+                "activity": "-",
+                "ec": "3.4.21.1"
+            },
+            {
+                "@ref": 68382,
+                "value": "acid phosphatase",
+                "activity": "+",
+                "ec": "3.1.3.2"
+            },
+            {
+                "@ref": 68382,
+                "value": "naphthol-AS-BI-phosphohydrolase",
+                "activity": "+"
+            },
+            {
+                "@ref": 68382,
+                "value": "alpha-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.22"
+            },
+            {
+                "@ref": 68382,
+                "value": "beta-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.23"
+            },
+            {
+                "@ref": 68382,
+                "value": "beta-glucuronidase",
+                "activity": "-",
+                "ec": "3.2.1.31"
+            },
+            {
+                "@ref": 68382,
+                "value": "alpha-glucosidase",
+                "activity": "+",
+                "ec": "3.2.1.20"
+            },
+            {
+                "@ref": 68382,
+                "value": "beta-glucosidase",
+                "activity": "-",
+                "ec": "3.2.1.21"
+            },
+            {
+                "@ref": 68382,
+                "value": "N-acetyl-beta-glucosaminidase",
+                "activity": "+",
+                "ec": "3.2.1.52"
+            },
+            {
+                "@ref": 68382,
+                "value": "alpha-mannosidase",
+                "activity": "-",
+                "ec": "3.2.1.24"
+            },
+            {
+                "@ref": 68382,
+                "value": "alkaline phosphatase",
+                "activity": "+",
+                "ec": "3.1.3.1"
+            },
+            {
+                "@ref": 68382,
+                "value": "esterase (C 4)",
+                "activity": "-"
+            },
+            {
+                "@ref": 68382,
+                "value": "lipase (C 14)",
+                "activity": "-"
+            },
+            {
+                "@ref": 119444,
+                "value": "oxidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 119444,
+                "value": "beta-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.23"
+            },
+            {
+                "@ref": 119444,
+                "value": "gelatinase",
+                "activity": "-"
+            },
+            {
+                "@ref": 119444,
+                "value": "catalase",
+                "activity": "-",
+                "ec": "1.11.1.6"
+            },
+            {
+                "@ref": 119444,
+                "value": "urease",
+                "activity": "-",
+                "ec": "3.5.1.5"
+            },
+            {
+                "@ref": 68381,
+                "value": "urease",
+                "activity": "-",
+                "ec": "3.5.1.5"
+            },
+            {
+                "@ref": 68381,
+                "value": "beta-mannosidase",
+                "activity": "+",
+                "ec": "3.2.1.25"
+            },
+            {
+                "@ref": 68381,
+                "value": "glycyl tryptophan arylamidase",
+                "activity": "+"
+            },
+            {
+                "@ref": 68381,
+                "value": "alpha-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.22"
+            },
+            {
+                "@ref": 68381,
+                "value": "arginine dihydrolase",
+                "activity": "-",
+                "ec": "3.5.3.6"
+            },
+            {
+                "@ref": 68381,
+                "value": "beta-glucosidase",
+                "activity": "+",
+                "ec": "3.2.1.21"
+            },
+            {
+                "@ref": 68381,
+                "value": "beta-glucuronidase",
+                "activity": "-",
+                "ec": "3.2.1.31"
+            },
+            {
+                "@ref": 68380,
+                "value": "histidine arylamidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 68380,
+                "value": "glutamyl-glutamate arylamidase",
+                "activity": "+"
+            },
+            {
+                "@ref": 68380,
+                "value": "serine arylamidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 68380,
+                "value": "alanine arylamidase",
+                "activity": "+",
+                "ec": "3.4.11.2"
+            },
+            {
+                "@ref": 68380,
+                "value": "phenylalanine arylamidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 68380,
+                "value": "leucine arylamidase",
+                "activity": "+",
+                "ec": "3.4.11.1"
+            },
+            {
+                "@ref": 68380,
+                "value": "glutamate decarboxylase",
+                "activity": "+",
+                "ec": "4.1.1.15"
+            },
+            {
+                "@ref": 68380,
+                "value": "tryptophan deaminase",
+                "activity": "-",
+                "ec": "4.1.99.1"
+            },
+            {
+                "@ref": 68380,
+                "value": "beta-glucuronidase",
+                "activity": "-",
+                "ec": "3.2.1.31"
+            },
+            {
+                "@ref": 68380,
+                "value": "N-acetyl-beta-glucosaminidase",
+                "activity": "+",
+                "ec": "3.2.1.52"
+            },
+            {
+                "@ref": 68380,
+                "value": "beta-glucosidase",
+                "activity": "+",
+                "ec": "3.2.1.21"
+            },
+            {
+                "@ref": 68380,
+                "value": "alpha-glucosidase",
+                "activity": "+",
+                "ec": "3.2.1.20"
+            },
+            {
+                "@ref": 68380,
+                "value": "alpha-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.22"
+            },
+            {
+                "@ref": 68380,
+                "value": "arginine dihydrolase",
+                "activity": "-",
+                "ec": "3.5.3.6"
+            },
+            {
+                "@ref": 68381,
+                "value": "pyrrolidonyl arylamidase",
+                "activity": "-",
+                "ec": "3.4.19.3"
+            },
+            {
+                "@ref": 68381,
+                "value": "beta-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.23"
+            },
+            {
+                "@ref": 68381,
+                "value": "Alanyl-Phenylalanyl-Proline arylamidase",
+                "activity": "+"
+            },
+            {
+                "@ref": 68381,
+                "value": "alkaline phosphatase",
+                "activity": "+",
+                "ec": "3.1.3.1"
+            },
+            {
+                "@ref": 68380,
+                "value": "glycin arylamidase",
+                "activity": "-"
+            },
+            {
+                "@ref": 68380,
+                "value": "pyrrolidonyl arylamidase",
+                "activity": "-",
+                "ec": "3.4.19.3"
+            },
+            {
+                "@ref": 68380,
+                "value": "leucyl glycin arylamidase",
+                "activity": "+",
+                "ec": "3.4.11.1"
+            },
+            {
+                "@ref": 68380,
+                "value": "proline-arylamidase",
+                "activity": "-",
+                "ec": "3.4.11.5"
+            },
+            {
+                "@ref": 68380,
+                "value": "alpha-arabinosidase",
+                "activity": "-",
+                "ec": "3.2.1.55"
+            },
+            {
+                "@ref": 68380,
+                "value": "beta-Galactosidase 6-phosphate",
+                "activity": "-"
+            },
+            {
+                "@ref": 68380,
+                "value": "urease",
+                "activity": "-",
+                "ec": "3.5.1.5"
+            },
+            {
+                "@ref": 68380,
+                "value": "beta-galactosidase",
+                "activity": "+",
+                "ec": "3.2.1.23"
+            },
+            {
+                "@ref": 68381,
+                "value": "N-acetyl-beta-glucosaminidase",
+                "activity": "+",
+                "ec": "3.2.1.52"
+            }
+        ],
+        "fatty acid profile": {
+            "fatty acids": [
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C14:0",
+                    "percentage": 1.1,
+                    "ECL": 14
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C15:0",
+                    "percentage": 4.3,
+                    "ECL": 15
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C16:0",
+                    "percentage": 5.6,
+                    "ECL": 16
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C14:0 ISO",
+                    "percentage": 7.6,
+                    "ECL": 13.618
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C15:0 3OH",
+                    "percentage": 0.7,
+                    "ECL": 16.504
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C15:0 ANTEISO",
+                    "percentage": 39,
+                    "ECL": 14.711
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C15:0 ISO",
+                    "percentage": 17.9,
+                    "ECL": 14.621
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C16:0 3OH",
+                    "percentage": 5.5,
+                    "ECL": 17.52
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C16:0 iso 3OH",
+                    "percentage": 0.6,
+                    "ECL": 17.145
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C17:0 2OH",
+                    "percentage": 1.2,
+                    "ECL": 18.249
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C17:0 3OH",
+                    "percentage": 1.2,
+                    "ECL": 18.535
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C17:0 iso 3OH",
+                    "percentage": 8.9,
+                    "ECL": 18.161
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C18:2 &omega;6,9c/C18:0 ANTE",
+                    "percentage": 1.1,
+                    "ECL": 17.724
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C20:0 ISO",
+                    "percentage": 3.2,
+                    "ECL": 19.635
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "C20:2 &omega;6,9c",
+                    "percentage": 1.1,
+                    "ECL": 19.735
+                },
+                {
+                    "@ref": 48299,
+                    "fatty acid": "Unidentified",
+                    "percentage": 1.2,
+                    "ECL": 19.864
+                }
+            ],
+            "type of FA analysis": "whole cell analysis",
+            "method/protocol": "CCUG"
+        },
+        "API zym": [
+            {
+                "@ref": 48299,
+                "Control": "-",
+                "Alkaline phosphatase": "+",
+                "Esterase": "-",
+                "Esterase Lipase": "-",
+                "Lipase": "-",
+                "Leucine arylamidase": "+",
+                "Valine arylamidase": "-",
+                "Cystine arylamidase": "-",
+                "Trypsin": "-",
+                "alpha- Chymotrypsin": "-",
+                "Acid phosphatase": "+",
+                "Naphthol-AS-BI-phosphohydrolase": "+",
+                "alpha- Galactosidase": "+",
+                "beta- Galactosidase": "+",
+                "beta- Glucuronidase": "-",
+                "alpha- Glucosidase": "+",
+                "beta- Glucosidase": "-",
+                "N-acetyl-beta- glucosaminidase": "+",
+                "alpha- Mannosidase": "-",
+                "alpha- Fucosidase": "+"
+            },
+            {
+                "@ref": 119444,
+                "Control": "-",
+                "Alkaline phosphatase": "+",
+                "Esterase": "-",
+                "Esterase Lipase": "+",
+                "Lipase": "-",
+                "Leucine arylamidase": "+",
+                "Valine arylamidase": "-",
+                "Cystine arylamidase": "-",
+                "Trypsin": "-",
+                "alpha- Chymotrypsin": "-",
+                "Acid phosphatase": "+",
+                "Naphthol-AS-BI-phosphohydrolase": "+",
+                "alpha- Galactosidase": "+",
+                "beta- Galactosidase": "+",
+                "beta- Glucuronidase": "-",
+                "alpha- Glucosidase": "+",
+                "beta- Glucosidase": "-",
+                "N-acetyl-beta- glucosaminidase": "+",
+                "alpha- Mannosidase": "-",
+                "alpha- Fucosidase": "-"
+            }
+        ],
+        "API rID32A": [
+            {
+                "@ref": 762,
+                "URE": "-",
+                "ADH Arg": "-",
+                "alpha GAL": "+",
+                "beta GAL": "+",
+                "beta GP": "-",
+                "alpha GLU": "+",
+                "beta GLU": "+",
+                "alpha ARA": "-",
+                "beta GUR": "-",
+                "beta NAG": "+",
+                "MNE": "+",
+                "RAF": "+",
+                "GDC": "+",
+                "alpha FUC": "-",
+                "NIT": "-",
+                "IND": "-",
+                "PAL": "+",
+                "ArgA": "+/-",
+                "ProA": "-",
+                "LGA": "+",
+                "PheA": "-",
+                "LeuA": "+",
+                "PyrA": "-",
+                "TyrA": "+/-",
+                "AlaA": "+",
+                "GlyA": "-",
+                "HisA": "-",
+                "GGA": "+",
+                "SerA": "-"
+            },
+            {
+                "@ref": 48299,
+                "URE": "-",
+                "ADH Arg": "-",
+                "alpha GAL": "+",
+                "beta GAL": "+",
+                "beta GP": "-",
+                "alpha GLU": "+",
+                "beta GLU": "+",
+                "alpha ARA": "-",
+                "beta GUR": "-",
+                "beta NAG": "+",
+                "MNE": "+",
+                "RAF": "+",
+                "GDC": "+",
+                "alpha FUC": "+",
+                "NIT": "-",
+                "IND": "-",
+                "PAL": "+",
+                "ArgA": "-",
+                "ProA": "-",
+                "LGA": "+",
+                "PheA": "-",
+                "LeuA": "+",
+                "PyrA": "-",
+                "TyrA": "-",
+                "AlaA": "+",
+                "GlyA": "-",
+                "HisA": "-",
+                "GGA": "+",
+                "SerA": "-"
+            },
+            {
+                "@ref": 762,
+                "URE": "-",
+                "ADH Arg": "-",
+                "alpha GAL": "+",
+                "beta GAL": "+",
+                "beta GP": "-",
+                "alpha GLU": "+",
+                "beta GLU": "+",
+                "alpha ARA": "-",
+                "beta GUR": "-",
+                "beta NAG": "+",
+                "MNE": "+",
+                "RAF": "+",
+                "GDC": "+",
+                "alpha FUC": "+",
+                "NIT": "-",
+                "IND": "-",
+                "PAL": "-",
+                "ArgA": "+",
+                "ProA": "-",
+                "LGA": "+",
+                "PheA": "-",
+                "LeuA": "+",
+                "PyrA": "-",
+                "TyrA": "+/-",
+                "AlaA": "+",
+                "GlyA": "-",
+                "HisA": "-",
+                "GGA": "+",
+                "SerA": "-"
+            }
+        ],
+        "API rID32STR": {
+            "@ref": 48299,
+            "ADH Arg": "-",
+            "beta GLU": "+",
+            "beta GAR": "+",
+            "beta GUR": "-",
+            "alpha GAL": "+",
+            "PAL": "+",
+            "RIB": "-",
+            "MAN": "-",
+            "SOR": "-",
+            "LAC": "+",
+            "TRE": "-",
+            "RAF": "+",
+            "SAC": "+",
+            "LARA": "-",
+            "DARL": "-",
+            "CDEX": "+",
+            "VP": "-",
+            "APPA": "+",
+            "beta GAL": "+",
+            "PyrA": "-",
+            "beta NAG": "+",
+            "GTA": "+",
+            "HIP": "-",
+            "GLYG": "-",
+            "PUL": "-",
+            "MAL": "+",
+            "MEL": "-",
+            "MLZ": "-",
+            "Mbeta DG": "-",
+            "TAG": "-",
+            "beta MAN": "+",
+            "URE": "-"
+        }
+    },
+    "Isolation, sampling and environmental information": {
+        "isolation": [
+            {
+                "@ref": 762,
+                "sample type": "pleural fluid",
+                "geographic location": "Oslo",
+                "country": "Norway",
+                "origin.country": "NOR",
+                "continent": "Europe",
+                "latitude": 59.9115,
+                "longitude": 10.7579
+            },
+            {
+                "@ref": 48299,
+                "sample type": "Human pleural fluid,empyema",
+                "sampling date": "1967"
+            },
+            {
+                "@ref": 119444,
+                "sample type": "Human, Pleural fluid",
+                "geographic location": "Oslo",
+                "country": "Norway",
+                "origin.country": "NOR",
+                "continent": "Europe",
+                "isolation date": "1967"
+            }
+        ],
+        "isolation source categories": [
+            {
+                "Cat1": "#Host Body Product",
+                "Cat2": "#Oral cavity and Airways",
+                "Cat3": "#Pleural fluid"
+            },
+            {
+                "Cat1": "#Infection",
+                "Cat2": "#Patient"
+            }
+        ]
+    },
+    "Interaction and safety": {
+        "risk assessment": [
+            {
+                "@ref": 762,
+                "pathogenicity human": "yes",
+                "pathogenicity animal": "yes",
+                "biosafety level": "2",
+                "biosafety level comment": "Risk group (German classification)"
+            },
+            {
+                "@ref": 119444,
+                "biosafety level": "2",
+                "biosafety level comment": "Risk group (French classification)"
+            }
+        ]
+    },
+    "Sequence information": {
+        "16S sequences": [
+            {
+                "@ref": 20218,
+                "description": "Bacteroides fragilis 16S-23S ribosomal RNA intergenic spacer, partial sequence",
+                "accession": "AF385895",
+                "length": 486,
+                "database": "nuccore",
+                "NCBI tax ID": 817
+            },
+            {
+                "@ref": 124043,
+                "description": "Bacteroides fragilis partial 16S rRNA gene, strain DSMZ 1396",
+                "accession": "HE608160",
+                "length": 1386,
+                "database": "nuccore",
+                "NCBI tax ID": 817
+            }
+        ],
+        "GC content": {
+            "@ref": 762,
+            "GC-content": "43.0",
+            "method": "thermal denaturation, midpoint method (Tm)"
+        }
+    },
+    "Genome-based predictions": {},
+    "Literature": {
+        "@ref": 762,
+        "culture collection no.": "CCUG 25931, DSM 1396, ATCC 23745, NCTC 10581, CIP 103754, JCM 11018",
+        "straininfo link": {
+            "@ref": 126262,
+            "straininfo": 45722
+        },
+        "literature": [
+            {
+                "Pubmed-ID": "72076",
+                "title": "Fluorescent-antibody studies on selected strains of Bacteroides fragilis subspecies fragilis.",
+                "authors": "Abshire RL, Lombard GL, Dowell VR.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.6.4.425-432.1977",
+                "year": 1977,
+                "mesh": "immunology, analysis, Fluorescent Antibody Technique"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "91622",
+                "title": "Immunochemical evidence for multiple serotypes of Bacteroides fragilis.",
+                "authors": "Cherniak R, Lombard GL, Dowell VR.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.9.6.699-704.1979",
+                "year": 1979,
+                "mesh": "classification, analysis"
+            },
+            {
+                "Pubmed-ID": "107193",
+                "title": "Serological study of trichloroacetic acid extracts of Bacteroides fragilis.",
+                "authors": "Abshire RL, Dowell VR, Lombard GL.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.9.2.274-279.1979",
+                "year": 1979,
+                "mesh": "immunology, microbiology, analysis, analysis, methods"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "148460",
+                "title": "Pathway of succinate and propionate formation in Bacteroides fragilis.",
+                "authors": "Macy JM, Ljungdahl LG, Gottschalk G.",
+                "journal": "J Bacteriol",
+                "DOI": "10.1128/jb.134.1.84-91.1978",
+                "year": 1978,
+                "mesh": "metabolism, metabolism, metabolism, metabolism"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "269199",
+                "title": "Serological studies of Bacteroides fragilis.",
+                "authors": "Elhag KM, Bettelheim KA, Tabaqchali S.",
+                "journal": "J Hyg (Lond)",
+                "DOI": "10.1017/s0022172400053043",
+                "year": 1977,
+                "mesh": "classification"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "385616",
+                "title": "Use of an immunoperoxidase method for identification of Bacteroides fragilis.",
+                "authors": "Hsu PC, Minshew BH, Williams BL, Lennard ES",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.10.3.285-289.1979",
+                "year": 1979,
+                "mesh": "Antigens, Bacterial/analysis, Bacteroides/immunology, Bacteroides fragilis/*classification/immunology, Cross Reactions, DNA, Bacterial/analysis, *Immunoenzyme Techniques, Nucleic Acid Hybridization"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "525995",
+                "title": "Inactivation of cephalosporins by Bacteroides.",
+                "authors": "Tally FP, O'Keefe JP, Sullivan NM, Gorbach SL.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.16.5.565",
+                "year": 1979,
+                "mesh": "metabolism, metabolism"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "533772",
+                "title": "Synthesis of alpha-ketoglutarate by reductive carboxylation of succinate in Veillonella, Selenomonas, and Bacteriodes species.",
+                "authors": "Allison MJ, Robinson IM, Baetz AL.",
+                "journal": "J Bacteriol",
+                "DOI": "10.1128/jb.140.3.980-986.1979",
+                "year": 1979,
+                "mesh": "metabolism, metabolism, metabolism, biosynthesis, metabolism"
+            },
+            {
+                "Pubmed-ID": "640723",
+                "title": "Adherence of Bacteroides fragilis in vivo.",
+                "authors": "Onderdonk AB, Moon NE, Kasper DL, Bartlett JG.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.19.3.1083-1087.1978",
+                "year": 1978,
+                "mesh": "microbiology, physiology"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "921263",
+                "title": "Requirement of heme for growth of Bacteroides fragilis.",
+                "authors": "Sperry JF, Appleman MD, Wilkins TD.",
+                "journal": "Appl Environ Microbiol",
+                "DOI": "10.1128/aem.34.4.386-390.1977",
+                "year": 1977,
+                "mesh": "metabolism, metabolism"
+            },
+            {
+                "Pubmed-ID": "1117488",
+                "title": "Bacteriophage-associated spherical bodies in Bacteroides fragilis.",
+                "authors": "Silver RP, Chase DG, Tally FP, Gorbach SL.",
+                "journal": "J Virol",
+                "DOI": "10.1128/jvi.15.4.894-897.1975",
+                "year": 1975,
+                "mesh": "Inclusion Bodies, Viral, ultrastructure, Bacteriophages"
+            },
+            {
+                "Pubmed-ID": "1374078",
+                "title": "Analysis of rRNA restriction fragment length polymorphisms from Bacteroides spp. and Bacteroides fragilis isolates associated with diarrhea in humans and animals.",
+                "authors": "Smith CJ, Callihan DR.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.30.4.806-812.1992",
+                "year": 1992,
+                "mesh": "genetics, genetics, genetics, genetics"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "1696307",
+                "title": "Surface structures, haemagglutination and cell surface hydrophobicity of Bacteroides fragilis strains.",
+                "authors": "Oyston PC, Handley PS",
+                "journal": "J Gen Microbiol",
+                "DOI": "10.1099/00221287-136-5-941",
+                "year": 1990,
+                "mesh": "Bacteroides fragilis/pathogenicity/physiology/*ultrastructure, Cell Membrane/ultrastructure, Hemagglutination, Microscopy, Electron, Species Specificity, Staining and Labeling, Virulence/physiology"
+            },
+            {
+                "Pubmed-ID": "1816114",
+                "title": "Serum antibody response to Bacteroides fragilis in experimental sinusitis.",
+                "authors": "Westrin KM, Stierna P, Weintraub A, Palmgren AC, Nord CE",
+                "journal": "Infection",
+                "DOI": "10.1007/BF01726458",
+                "year": 1991,
+                "mesh": "Animals, Antibodies, Bacterial/analysis/*immunology, Bacteroides Infections/*immunology, Bacteroides fragilis/*immunology, Fluorescent Antibody Technique, Immunoenzyme Techniques, Immunoglobulin A/immunology, Immunoglobulin G/immunology, Immunoglobulin M/immunology, Lipopolysaccharides/immunology, Maxillary Sinusitis/*immunology/microbiology, Rabbits"
+            },
+            {
+                "Pubmed-ID": "2037368",
+                "title": "Immunochemical characterization of two surface polysaccharides of Bacteroides fragilis.",
+                "authors": "Pantosti A, Tzianabos AO, Onderdonk AB, Kasper DL.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.59.6.2075-2082.1991",
+                "year": 1991,
+                "mesh": "analysis, chemistry, chemistry"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "2579976",
+                "title": "A soluble suppressor T cell factor protects against experimental intraabdominal abscesses.",
+                "authors": "Zaleznik DF, Finberg RW, Shapiro ME, Onderdonk AB, Kasper DL.",
+                "journal": "J Clin Invest",
+                "DOI": "10.1172/jci111763",
+                "year": 1985,
+                "mesh": "Abdomen, prevention & control, prevention & control, therapeutic use, metabolism"
+            },
+            {
+                "Pubmed-ID": "2777372",
+                "title": "Intraperitoneal host cellular responses and in vivo killing of Bacteroides fragilis in a bacterial containment chamber.",
+                "authors": "Onderdonk AB, Cisneros RL, Crabb JH, Finberg RW, Kasper DL.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.57.10.3030-3037.1989",
+                "year": 1989,
+                "mesh": "microbiology, growth & development, Phagocytosis, Immunity, Cellular"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "3281973",
+                "title": "Detection of Bacteroides fragilis, Bacteroides thetaiotaomicron, and Bacteroides ovatus in clinical specimens by immunofluorescence with a monoclonal antibody to B. fragilis lipopolysaccharide.",
+                "authors": "Viljanen MK, Linko L, Lehtonen OP.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.26.3.448-452.1988",
+                "year": 1988,
+                "mesh": "isolation & purification, isolation & purification, immunology, Antibodies, Monoclonal, Fluorescent Antibody Technique",
+                "topic2": "Phylogeny"
+            },
+            {
+                "Pubmed-ID": "4008048",
+                "title": "Chemical and immunochemical analyses of Bacteroides fragilis lipopolysaccharides.",
+                "authors": "Weintraub A, Larsson BE, Lindberg AA.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.49.1.197-201.1985",
+                "year": 1985,
+                "mesh": "analysis, analysis, analysis"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "4073879",
+                "title": "Comparative evaluation of the 2-methyl-5-nitroimidazole compounds dimetridazole, metronidazole, secnidazole, ornidazole, tinidazole, carnidazole, and panidazole against Bacteroides fragilis and other bacteria of the Bacteroides fragilis group.",
+                "authors": "Jokipii L, Jokipii AM.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.28.4.561",
+                "year": 1985,
+                "mesh": "drug effects, pharmacology, pharmacology"
+            },
+            {
+                "Pubmed-ID": "4134928",
+                "title": "Morphology of bacteriophage-like particles from Fusobacterium symbiosum.",
+                "authors": "Foglesong MA, Markovetz AJ.",
+                "journal": "J Bacteriol",
+                "DOI": "10.1128/jb.119.1.325-329.1974",
+                "year": 1974,
+                "mesh": "Fusobacterium, growth & development"
+            },
+            {
+                "Pubmed-ID": "6155104",
+                "title": "Changes in macromolecular composition and morphology of Bacteroides fragilis cultured in a complex medium.",
+                "authors": "Frantz JC, McCallum RE.",
+                "journal": "Appl Environ Microbiol",
+                "DOI": "10.1128/aem.39.2.445-448.1980",
+                "year": 1980,
+                "mesh": "growth & development"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "6174077",
+                "title": "In vitro utilization of mucin by Bacteroides fragilis.",
+                "authors": "Roberton AM, Stanley RA.",
+                "journal": "Appl Environ Microbiol",
+                "DOI": "10.1128/aem.43.2.325-330.1982",
+                "year": 1982,
+                "mesh": "metabolism, metabolism"
+            },
+            {
+                "Pubmed-ID": "6174672",
+                "title": "Cellular immunity to Bacteroides fragilis capsular polysaccharide.",
+                "authors": "Shapiro ME, Onderdonk AB, Kasper DL, Finberg RW.",
+                "journal": "J Exp Med",
+                "DOI": "10.1084/jem.155.4.1188",
+                "year": 1982,
+                "mesh": "immunology, immunology"
+            },
+            {
+                "Pubmed-ID": "6185469",
+                "title": "Capsular polysaccharides and lipopolysaccharides from two Bacteroides fragilis reference strains: chemical and immunochemical characterization.",
+                "authors": "Kasper DL, Weintraub A, Lindberg AA, Lonngren J",
+                "journal": "J Bacteriol",
+                "DOI": "10.1128/jb.153.2.991-997.1983",
+                "year": 1983,
+                "mesh": "Amino Acids/analysis, Amino Sugars/analysis, Bacteroides fragilis/*analysis, Enzyme-Linked Immunosorbent Assay, Epitopes, Fatty Acids/analysis, Lipopolysaccharides/*analysis/immunology, Monosaccharides/analysis, Polysaccharides, Bacterial/*analysis/immunology"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "6386867",
+                "title": "Monoclonal antibodies to Bacteroides fragilis lipopolysaccharide.",
+                "authors": "Linko-Kettunen L, Arstila P, Jalkanen M, Jousimies-Somer H, Lassila O, Lehtonen OP, Weintraub A, Viljanen MK",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.20.3.519-524.1984",
+                "year": 1984,
+                "mesh": "Animals, Antibodies, Monoclonal/biosynthesis/*immunology, Antibody Specificity, Bacteroides fragilis/*immunology, Electrophoresis, Polyacrylamide Gel, Immunochemistry, Immunoenzyme Techniques, Lipopolysaccharides/*immunology, Mice, Mice, Inbred BALB C"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "6440485",
+                "title": "Alternative pathways for biosynthesis of leucine and other amino acids in Bacteroides ruminicola and Bacteroides fragilis.",
+                "authors": "Allison MJ, Baetz AL, Wiegel J.",
+                "journal": "Appl Environ Microbiol",
+                "DOI": "10.1128/aem.48.6.1111-1117.1984",
+                "year": 1984,
+                "mesh": "metabolism, metabolism, biosynthesis, biosynthesis"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "6459765",
+                "title": "Factors affecting the in vitro activity of cefoperazone against the Bacteroides fragilis group.",
+                "authors": "Sutter VL, Kwok YY.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.20.6.723",
+                "year": 1981,
+                "mesh": "drug effects, pharmacology"
+            },
+            {
+                "Pubmed-ID": "6642651",
+                "title": "Enhancement of experimental ulcerative colitis by immunization with Bacteroides vulgatus.",
+                "authors": "Onderdonk AB, Cisneros RL, Bronson RT.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.42.2.783-788.1983",
+                "year": 1983,
+                "mesh": "immunology, complications, complications"
+            },
+            {
+                "Pubmed-ID": "6718939",
+                "title": "Capsular polysaccharides and lipopolysaccharides from two strains of Bacteroides fragilis.",
+                "authors": "Kasper DL, Lindberg AA, Weintraub A, Onderdonk AB, Lonngren J",
+                "journal": "Rev Infect Dis",
+                "DOI": "10.1093/clinids/6.supplement_1.s25",
+                "year": 1984,
+                "mesh": "Abscess/chemically induced, Amino Acids/analysis, Amino Sugars/analysis, Bacteroides fragilis/*analysis, Fatty Acids/analysis, Hexoses/analysis, *Hexuronic Acids, Lipopolysaccharides/*analysis/toxicity, Polysaccharides, Bacterial/*analysis/toxicity, Uronic Acids/analysis"
+            },
+            {
+                "Pubmed-ID": "6726783",
+                "title": "The growth and survival of capsulate and non-capsulate Bacteroides fragilis in vivo and in vitro.",
+                "authors": "Patrick S, Reid JH, Larkin MJ",
+                "journal": "J Med Microbiol",
+                "DOI": "10.1099/00222615-17-3-237",
+                "year": 1984,
+                "mesh": "Aerobiosis, Anaerobiosis, Animals, Bacteroides fragilis/analysis/cytology/*growth & development, Female, Mice, Peritoneal Cavity, Polysaccharides, Bacterial/analysis/*physiology"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "6736683",
+                "title": "Detection of specific bacterial antigen in urine of patients infected with Bacteroides fragilis.",
+                "authors": "Rissing JP, Buxton TB, Harris RW, Shockley RK",
+                "journal": "J Infect Dis",
+                "DOI": "10.1093/infdis/149.6.929",
+                "year": 1984,
+                "mesh": "Antigens, Bacterial/*urine, Bacteroides Infections/immunology/*urine, Bacteroides fragilis/*immunology, Enterobacteriaceae Infections/immunology/urine, Enzyme-Linked Immunosorbent Assay, False Positive Reactions, Humans, Sepsis/immunology/urine"
+            },
+            {
+                "Pubmed-ID": "6837522",
+                "title": "Demonstration of bacteroides capsules by light microscopy and ultrastructural cytochemistry.",
+                "authors": "Strohm H, Payne CM, Ryan KJ",
+                "journal": "Am J Clin Pathol",
+                "DOI": "10.1093/ajcp/79.5.591",
+                "year": 1983,
+                "mesh": "Bacteroides fragilis/analysis/*cytology/ultrastructure, Cell Membrane/analysis, Histocytochemistry, Ink, Polysaccharides, Bacterial/analysis"
+            },
+            {
+                "Pubmed-ID": "6886522",
+                "title": "Detection of a specific bacterial antigen in urine of rats with Bacteroides fragilis infection.",
+                "authors": "Rissing JP, Buxton TB, Harris RW, Shockley RK, Craven P, Moore WL",
+                "journal": "J Lab Clin Med",
+                "DOI": "0022-2143(83)90094-X",
+                "year": 1983,
+                "mesh": "Animals, Antigens, Bacterial/*urine, Bacteroides Infections/*immunology/urine/veterinary, Bacteroides fragilis/immunology, Enterobacteriaceae/immunology, Enzyme-Linked Immunosorbent Assay, Polysaccharides, Bacterial/urine, Rats, Rodent Diseases/urine"
+            },
+            {
+                "Pubmed-ID": "6976357",
+                "title": "Evidence for T cell-dependent immunity to Bacteroides fragilis in an intraabdominal abscess model.",
+                "authors": "Onderdonk AB, Markham RB, Zaleznik DF, Cisneros RL, Kasper DL.",
+                "journal": "J Clin Invest",
+                "DOI": "10.1172/jci110445",
+                "year": 1982,
+                "mesh": "immunology, immunology, immunology, immunology"
+            },
+            {
+                "Pubmed-ID": "6980191",
+                "title": "Lipopolysaccharides from Bacteroides fragilis are mitogenic for spleen cells from endotoxin responder and nonresponder mice.",
+                "authors": "Joiner KA, McAdam KP, Kasper DL.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.36.3.1139-1145.1982",
+                "year": 1982,
+                "mesh": "immunology, immunology, immunology, Mitogens, Lymphocyte Activation"
+            },
+            {
+                "Pubmed-ID": "7068222",
+                "title": "Characterization of opsonins for Bacteroides fragilis in immune sera collected from experimentally infected mice.",
+                "authors": "Ellis TM, Barrett JT.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.35.3.929-936.1982",
+                "year": 1982,
+                "mesh": "immunology, immunology, immunology, immunology, Opsonin Proteins"
+            },
+            {
+                "Pubmed-ID": "7240431",
+                "title": "IgG antibodies against anaerobic bacteria in blood donor sera.",
+                "authors": "Schwan A.",
+                "journal": "J Clin Pathol",
+                "DOI": "10.1136/jcp.34.4.416",
+                "year": 1981,
+                "mesh": "analysis, analysis"
+            },
+            {
+                "Pubmed-ID": "7927768",
+                "title": "Structural characteristics of polysaccharides that induce protection against intra-abdominal abscess formation.",
+                "authors": "Tzianabos AO, Onderdonk AB, Zaleznik DF, Smith RS, Kasper DL.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.62.11.4881-4886.1994",
+                "year": 1994,
+                "mesh": "immunology, immunology, immunology"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "8285633",
+                "title": "Evaluation of activity of temafloxacin against Bacteroides fragilis by an in vitro pharmacodynamic system.",
+                "authors": "Zabinski RA, Vance-Bryan K, Krinke AJ, Walker KJ, Moody JA, Rotschafer JC",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/AAC.37.11.2454",
+                "year": 1993,
+                "mesh": "Anaerobiosis, Anti-Infective Agents/pharmacokinetics/*pharmacology, Bacteroides fragilis/*drug effects, Cefotetan/pharmacology, Ciprofloxacin/pharmacology, Colony Count, Microbial, Culture Media, *Fluoroquinolones, Microbial Sensitivity Tests, Quinolones/pharmacokinetics/*pharmacology",
+                "topic2": "Cultivation"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "8349763",
+                "title": "Bacteroides fragilis strains express multiple capsular polysaccharides.",
+                "authors": "Pantosti A, Tzianabos AO, Reinap BG, Onderdonk AB, Kasper DL.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.31.7.1850-1855.1993",
+                "year": 1993,
+                "mesh": "metabolism, biosynthesis"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "8517721",
+                "title": "In vitro activity of FK037, a new parenteral cephalosporin, against anaerobic bacteria.",
+                "authors": "Kato N, Kato H, Tanaka Y, Bando K, Watanabe K, Ueno K.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.37.5.957",
+                "year": 1993,
+                "mesh": "drug effects, pharmacology, analogs & derivatives"
+            },
+            {
+                "topic": "Genetics",
+                "Pubmed-ID": "8529227",
+                "title": "Structural elucidation of the capsular polysaccharide of Bacteroides fragilis strain 23745M1.",
+                "authors": "Pavliak V, Uhrin D, Brisson JR, Tzianabos AO, Kasper DL, Jennings HJ",
+                "journal": "Carbohydr Res",
+                "DOI": "10.1016/0008-6215(95)00158-p",
+                "year": 1995,
+                "mesh": "Acetylglucosamine/analysis, Bacterial Capsules/*chemistry, Bacteroides fragilis/*chemistry, Carbohydrate Conformation, Carbohydrate Sequence, Fucose/analysis, Glucose/analysis, Magnetic Resonance Spectroscopy, Molecular Sequence Data, Molecular Structure, Rhamnose/analysis"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "8567899",
+                "title": "Monoclonal antibodies to detect capsular diversity among Bacteroides fragilis isolates.",
+                "authors": "Pantosti A, Colangeli R, Tzianabos AO, Kasper DL.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.33.10.2647-2652.1995",
+                "year": 1995,
+                "mesh": "classification, immunology, Antibodies, Bacterial, methods, Antigenic Variation"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "8843310",
+                "title": "Characterization of bactericidal activity of clindamycin against Bacteroides fragilis via kill curve methods.",
+                "authors": "Klepser ME, Banevicius MA, Quintiliani R, Nightingale CH.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.40.8.1941",
+                "year": 1996,
+                "mesh": "drug effects, pharmacology, pharmacology"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "9316893",
+                "title": "Detection of enterotoxigenic Bacteroides fragilis by PCR.",
+                "authors": "Pantosti A, Malpeli M, Wilks M, Menozzi MG, D'Ambrosio F.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.35.10.2482-2486.1997",
+                "year": 1997,
+                "mesh": "classification, genetics, genetics, Bacterial Typing Techniques, methods"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "9817870",
+                "title": "Rapid and sensitive assay for detection of enterotoxigenic Bacteroides fragilis.",
+                "authors": "Zhang G, Weintraub A.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.36.12.3545-3548.1998",
+                "year": 1998,
+                "mesh": "isolation & purification, microbiology",
+                "topic2": "Phylogeny"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "10376487",
+                "title": "Bacteroides fragilis isolates compared by AP-PCR.",
+                "authors": "Moraes SR, Goncalves RB, Mouton C, Seldin L, Ferreira MC, Domingues RM",
+                "journal": "Res Microbiol",
+                "DOI": "10.1016/s0923-2508(99)80050-3",
+                "year": 1999,
+                "mesh": "Bacteroides fragilis/classification/genetics/*isolation & purification, Genetic Variation, Intestines/microbiology, Polymerase Chain Reaction/methods, Water Microbiology, Water Pollution",
+                "topic2": "Enzymology"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "10471574",
+                "title": "Fluoroquinolone resistance in Bacteroides fragilis following sparfloxacin exposure.",
+                "authors": "Peterson ML, Hovde LB, Wright DH, Hoang AD, Raddatz JK, Boysen PJ, Rotschafer JC",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/AAC.43.9.2251",
+                "year": 1999,
+                "mesh": "Anti-Infective Agents/*pharmacology, Area Under Curve, Bacteroides fragilis/*drug effects, Drug Resistance, Microbial, *Fluoroquinolones, Microbial Sensitivity Tests"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "10582874",
+                "title": "Activities of the oxazolidinones linezolid and eperezolid in experimental intra-abdominal abscess due to Enterococcus faecalis or vancomycin-resistant Enterococcus faecium.",
+                "authors": "Schulin T, Thauvin-Eliopoulos C, Moellering RC, Eliopoulos GM.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.43.12.2873",
+                "year": 1999,
+                "mesh": "drug effects, Enterococcus faecium, drug therapy, drug therapy, therapeutic use, therapeutic use, Oxazolidinones, pharmacology, pharmacology, therapeutic use"
+            },
+            {
+                "Pubmed-ID": "10603385",
+                "title": "Contribution of Escherichia coli alpha-hemolysin to bacterial virulence and to intraperitoneal alterations in peritonitis.",
+                "authors": "May AK, Gleason TG, Sawyer RG, Pruett TL.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.68.1.176-183.2000",
+                "year": 2000,
+                "mesh": "pathogenicity, etiology, etiology, etiology, toxicity, Escherichia coli Proteins, toxicity"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "10655393",
+                "title": "Fluorescent In situ hybridization allows rapid identification of microorganisms in blood cultures.",
+                "authors": "Kempf VA, Trebesius K, Autenrieth IB.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.38.2.830-838.2000",
+                "year": 2000,
+                "mesh": "isolation & purification, isolation & purification, microbiology, microbiology, In Situ Hybridization, Fluorescence",
+                "topic2": "Phylogeny"
+            },
+            {
+                "topic": "Genetics",
+                "Pubmed-ID": "10707948",
+                "title": "Use of rep-PCR to define genetic relatedness among Bacteroides fragilis strains.",
+                "authors": "Moraes SR, Goncalves RB, Mouton C, Seldin L, Ferreira MCS, Domingues RMCP",
+                "journal": "J Med Microbiol",
+                "DOI": "10.1099/0022-1317-49-3-279",
+                "year": 2000,
+                "mesh": "Bacteroides Infections/*microbiology, Bacteroides fragilis/*classification/genetics, Cluster Analysis, Consensus Sequence, DNA Fingerprinting/methods, DNA, Bacterial/*chemistry, Genetic Variation, Genotype, Humans, Intestines/microbiology, Polymerase Chain Reaction, Reproducibility of Results, Water Microbiology",
+                "topic2": "Pathogenicity"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "11120973",
+                "title": "In vitro activity of trovafloxacin against Bacteroides fragilis in mixed culture with either Escherichia coli or a vancomycin- resistant strain of Enterococcus faecium determined by an anaerobic time-kill technique.",
+                "authors": "Stearne LE, Kooi C, Goessens WH, Bakker-Woudenberg IA, Gyssens IC.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.45.1.243-251.2001",
+                "year": 2001,
+                "mesh": "drug effects, drug effects, drug effects, pharmacology, Fluoroquinolones, pharmacology, pharmacology, pharmacology"
+            },
+            {
+                "Pubmed-ID": "11302801",
+                "title": "In vivo efficacy of trovafloxacin against Bacteroides fragilis in mixed infection with either Escherichia coli or a vancomycin-resistant strain of Enterococcus faecium in an established-abscess murine model.",
+                "authors": "Stearne LE, Gyssens IC, Goessens WH, Mouton JW, Oyen WJ, van der Meer JW, Verbrugh HA.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.45.5.1394-1401.2001",
+                "year": 2001,
+                "mesh": "drug therapy, therapeutic use, Fluoroquinolones, therapeutic use"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "11751135",
+                "title": "Pharmacodynamics of trovafloxacin and levofloxacin against Bacteroides fragilis in an in vitro pharmacodynamic model.",
+                "authors": "Peterson ML, Hovde LB, Wright DH, Brown GH, Hoang AD, Rotschafer JC",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/AAC.46.1.203-210.2002",
+                "year": 2002,
+                "mesh": "Anti-Infective Agents/*pharmacology, Area Under Curve, Bacteroides fragilis/*drug effects, *Fluoroquinolones, Humans, *Levofloxacin, Microbial Sensitivity Tests, Naphthyridines/*pharmacology, Ofloxacin/*pharmacology, Time Factors"
+            },
+            {
+                "Pubmed-ID": "12435666",
+                "title": "Effect of a single percutaneous abscess drainage puncture and imipenem therapy, alone or in combination, in treatment of mixed-infection abscesses in mice.",
+                "authors": "Stearne LE, Buijk SL, Mouton JW, Gyssens IC.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.46.12.3712-3718.2002",
+                "year": 2002,
+                "mesh": "drug therapy, drug therapy, therapeutic use, therapeutic use"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "12454130",
+                "title": "Quantification of bacteria adherent to gastrointestinal mucosa by real-time PCR.",
+                "authors": "Huijsdens XW, Linskens RK, Mak M, Meuwissen SG, Vandenbroucke-Grauls CM, Savelkoul PH.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.40.12.4423-4427.2002",
+                "year": 2002,
+                "mesh": "microbiology, microbiology, isolation & purification, isolation & purification, methods, Bacterial Adhesion",
+                "topic2": "Phylogeny"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "15047539",
+                "title": "Role of topoisomerase mutations and efflux in fluoroquinolone resistance of Bacteroides fragilis clinical isolates and laboratory mutants.",
+                "authors": "Ricci V, Peterson ML, Rotschafer JC, Wexler H, Piddock LJ.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.48.4.1344-1346.2004",
+                "year": 2004,
+                "mesh": "drug effects, microbiology, metabolism, pharmacology, genetics, metabolism, pharmacology, genetics",
+                "topic2": "Pathogenicity"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "15105122",
+                "title": "Comparative study of the effects of ceftizoxime, piperacillin, and piperacillin-tazobactam concentrations on antibacterial activity and selection of antibiotic-resistant mutants of Enterobacter cloacae and Bacteroides fragilis in vitro and in vivo in mixed-infection abscesses.",
+                "authors": "Stearne LE, van Boxtel D, Lemmens N, Goessens WH, Mouton JW, Gyssens IC.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.48.5.1688-1698.2004",
+                "year": 2004,
+                "mesh": "drug effects, drug effects, drug therapy, therapeutic use, therapeutic use, therapeutic use, analogs & derivatives, therapeutic use, therapeutic use, therapeutic use"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "15504841",
+                "title": "Pharmacodynamics of pulse dosing versus standard dosing: in vitro metronidazole activity against Bacteroides fragilis and Bacteroides thetaiotaomicron.",
+                "authors": "Ibrahim KH, Gunderson BW, Hermsen ED, Hovde LB, Rotschafer JC.",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/aac.48.11.4195-4199.2004",
+                "year": 2004,
+                "mesh": "drug effects, drug effects, pharmacology, pharmacology"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "15659667",
+                "title": "Characterization of the RokA and HexA broad-substrate-specificity hexokinases from Bacteroides fragilis and their role in hexose and N-acetylglucosamine utilization.",
+                "authors": "Brigham CJ, Malamy MH.",
+                "journal": "J Bacteriol",
+                "DOI": "10.1128/jb.187.3.890-901.2005",
+                "year": 2005,
+                "mesh": "enzymology, genetics, metabolism, metabolism, metabolism",
+                "topic2": "Enzymology"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "16127038",
+                "title": "Effect of recombinant murine granulocyte colony-stimulating factor with or without fluoroquinolone therapy on mixed-infection abscesses in mice.",
+                "authors": "Stearne LE, Vonk AG, Kullberg BJ, Gyssens IC",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/AAC.49.9.3668-3675.2005",
+                "year": 2005,
+                "mesh": "Abscess/*drug therapy/microbiology, Animals, Anti-Infective Agents/pharmacology/*therapeutic use, Aza Compounds/pharmacology/therapeutic use, Bacillus/pathogenicity, Colony Count, Microbial, Cytokines/metabolism, Escherichia coli/pathogenicity, Female, Fluoroquinolones/pharmacology/*therapeutic use, Granulocyte Colony-Stimulating Factor/pharmacology/*therapeutic use, Mice, Mice, Inbred BALB C, Microbial Sensitivity Tests, Moxifloxacin, Quinolines/pharmacology/therapeutic use, Recombinant Proteins, Spleen/microbiology, Survival Analysis, Treatment Outcome"
+            },
+            {
+                "topic": "Metabolism",
+                "Pubmed-ID": "16552061",
+                "title": "Characterization of Bacteroides fragilis hemolysins and regulation and synergistic interactions of HlyA and HlyB.",
+                "authors": "Robertson KP, Smith CJ, Gough AM, Rocha ER.",
+                "journal": "Infect Immun",
+                "DOI": "10.1128/iai.74.4.2304-2316.2006",
+                "year": 2006,
+                "mesh": "metabolism, metabolism, metabolism, metabolism, Protein Interaction Mapping, metabolism, chemistry"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "17646416",
+                "title": "Effect of dosing and dosing frequency on the efficacy of ceftizoxime and the emergence of ceftizoxime resistance during the early development of murine abscesses caused by Bacteroides fragilis and Enterobacter cloacae mixed infection.",
+                "authors": "Stearne LE, Goessens WH, Mouton JW, Gyssens IC",
+                "journal": "Antimicrob Agents Chemother",
+                "DOI": "10.1128/AAC.01486-06",
+                "year": 2007,
+                "mesh": "Abscess/*drug therapy/microbiology, Animals, Anti-Bacterial Agents/administration & dosage/*pharmacology/*therapeutic use, Area Under Curve, Bacteroides Infections/*drug therapy/microbiology, Bacteroides fragilis/*drug effects/genetics, Ceftizoxime/administration & dosage/*pharmacology/*therapeutic use, Culture Media, Drug Resistance, Bacterial, Enterobacter cloacae/*drug effects/genetics, Enterobacteriaceae Infections/*drug therapy/microbiology, Female, Mice, Mice, Inbred BALB C, Microbial Sensitivity Tests, Mutation/drug effects/genetics",
+                "topic2": "Cultivation"
+            },
+            {
+                "Pubmed-ID": "19089053",
+                "title": "Comparative evaluation of antimicrobial action of MTA, calcium hydroxide and Portland cement.",
+                "authors": "Ribeiro CS, Kuteken FA, Hirata Junior R, Scelza MF.",
+                "journal": "J Appl Oral Sci",
+                "DOI": "10.1590/s1678-77572006000500006",
+                "year": 2006
+            },
+            {
+                "Pubmed-ID": "19089195",
+                "title": "Susceptibility of strict and facultative anaerobes Isolated from endodontic infections to metronidazole and beta-lactams.",
+                "authors": "Gaetti-Jardim Junior E, Landucci LF, Lins SA, Vieira EM, de Oliveira SR.",
+                "journal": "J Appl Oral Sci",
+                "DOI": "10.1590/s1678-77572007000600016",
+                "year": 2007
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "20129959",
+                "title": "Identification of clinically important anaerobic bacteria by an oligonucleotide array.",
+                "authors": "Lin YT, Vaneechoutte M, Huang AH, Teng LJ, Chen HM, Su SL, Chang TC.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.01620-09",
+                "year": 2010,
+                "mesh": "classification, isolation & purification, diagnosis, methods, methods",
+                "topic2": "Enzymology"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "20565734",
+                "title": "A distinctive 'microbial signature' in celiac pediatric patients.",
+                "authors": "Schippa S, Iebba V, Barbato M, Di Nardo G, Totino V, Checchi MP, Longhi C, Maiella G, Cucchiara S, Conte MP.",
+                "journal": "BMC Microbiol",
+                "DOI": "10.1186/1471-2180-10-175",
+                "year": 2010,
+                "mesh": "isolation & purification, microbiology",
+                "topic2": "Phylogeny"
+            },
+            {
+                "topic": "Enzymology",
+                "Pubmed-ID": "21209161",
+                "title": "Rapid stool-based diagnosis of Clostridium difficile infection by real-time PCR in a children's hospital.",
+                "authors": "Luna RA, Boyanton BL, Mehta S, Courtney EM, Webb CR, Revell PA, Versalovic J.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.01983-10",
+                "year": 2011,
+                "mesh": "microbiology, diagnosis, microbiology, methods, methods, isolation & purification",
+                "topic2": "Phylogeny"
+            },
+            {
+                "Pubmed-ID": "24421093",
+                "title": "Recognition of immunologically important antigens in Bacteroides fragilis infection -an experimental study in mice.",
+                "authors": "Khanna T, Panigrahi D, Ganguly NK, Majumdar S",
+                "journal": "World J Microbiol Biotechnol",
+                "DOI": "10.1007/BF00144468",
+                "year": 1994
+            },
+            {
+                "topic": "Transcriptome",
+                "Pubmed-ID": "26512991",
+                "title": "Microbial Contaminants of Cord Blood Units Identified by 16S rRNA Sequencing and by API Test System, and Antibiotic Sensitivity Profiling.",
+                "authors": "Franca L, Simoes C, Taborda M, Diogo C, da Costa MS.",
+                "journal": "PLoS One",
+                "DOI": "10.1371/journal.pone.0141152",
+                "year": 2015,
+                "mesh": "microbiology, genetics, genetics, pharmacology, methods, Sequence Analysis, DNA"
+            },
+            {
+                "topic": "Phylogeny",
+                "Pubmed-ID": "26609036",
+                "title": "A study on the characterization of Propionibacterium acnes isolated from ocular clinical specimens.",
+                "authors": "Sowmiya M, Malathi J, Swarnali S, Priya JP, Therese KL, Madhavan HN.",
+                "journal": "Indian J Med Res",
+                "DOI": "10.4103/0971-5916.169209",
+                "year": 2015,
+                "mesh": "microbiology, isolation & purification, microbiology, genetics, Phylogeny",
+                "topic2": "Enzymology"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "27018325",
+                "title": "Effect of oligosaccharides on the adhesion of gut bacteria to human HT-29 cells.",
+                "authors": "Altamimi M, Abdelhay O, Rastall RA",
+                "journal": "Anaerobe",
+                "DOI": "10.1016/j.anaerobe.2016.03.010",
+                "year": 2016,
+                "mesh": "Bacterial Adhesion/*drug effects, Bacteroides/drug effects/physiology, Bacteroides fragilis/drug effects/physiology, Bifidobacterium/drug effects/physiology, Clostridium/drug effects/physiology, Faecalibacterium/drug effects/physiology, Gastrointestinal Microbiome/*drug effects, HT29 Cells, Humans, Lactobacillus casei/drug effects/physiology, Mucins/metabolism, Oligosaccharides/*pharmacology, Prebiotics/*analysis, Species Specificity",
+                "topic2": "Phylogeny"
+            },
+            {
+                "Pubmed-ID": "27766829",
+                "title": "Development of Rare Bacterial Monosaccharide Analogs for Metabolic Glycan Labeling in Pathogenic Bacteria.",
+                "authors": "Clark EL, Emmadi M, Krupp KL, Podilapu AR, Helble JD, Kulkarni SS, Dube DH.",
+                "journal": "ACS Chem Biol",
+                "DOI": "10.1021/acschembio.6b00790",
+                "year": 2016,
+                "mesh": "chemistry, chemistry, analogs & derivatives, analysis, analysis, analysis"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "28659619",
+                "title": "Nano-engineering the Antimicrobial Spectrum of Lantibiotics: Activity of Nisin against Gram Negative Bacteria.",
+                "authors": "Vukomanovic M, Zunic V, Kunej S, Jancar B, Jeverica S, Podlipec R, Suvorov D.",
+                "journal": "Sci Rep",
+                "DOI": "10.1038/s41598-017-04670-0",
+                "year": 2017,
+                "mesh": "drug effects, pharmacology, pharmacology, pharmacology, Nanotechnology, Theranostic Nanomedicine"
+            },
+            {
+                "Pubmed-ID": "30507089",
+                "title": "Induction Effects of Bacteroides fragilis Derived Outer Membrane Vesicles on Toll Like Receptor 2, Toll Like Receptor 4 Genes Expression and Cytokines Concentration in Human Intestinal Epithelial Cells.",
+                "authors": "Ahmadi Badi S, Khatami SH, Irani SH, Siadat SD.",
+                "journal": "Cell J",
+                "DOI": "10.22074/cellj.2019.5750",
+                "year": 2019,
+                "mesh": "Gut Microbiota, Toll Like Receptors, Membrane Vesicles, Bacteroides Fragilis"
+            },
+            {
+                "Pubmed-ID": "31191841",
+                "title": "The effect of saturated and unsaturated fatty acids on the production of outer membrane vesicles from <i>Bacteroides fragilis</i> and <i>Bacteroides thetaiotaomicron</i>.",
+                "authors": "Mirjafari Tafti ZS, Moshiri A, Ettehad Marvasti F, Tarashi S, Sadati Khalili SF, Motahhary A, Fateh A, Vaziri F, Ahmadi Badi S, Siadat SD.",
+                "journal": "Gastroenterol Hepatol Bed Bench",
+                "year": 2019,
+                "mesh": "Palmitoleic acid, Palmitic acid, Bacteroides Fragilis, Bacteroides Thetaiotaomicron, Outer Membrane Vesicle"
+            },
+            {
+                "topic": "Pathogenicity",
+                "Pubmed-ID": "31707334",
+                "title": "Aluminum-induced generation of lipopolysaccharide (LPS) from the human gastrointestinal (GI)-tract microbiome-resident Bacteroides fragilis.",
+                "authors": "Alexandrov PN, Hill JM, Zhao Y, Bond T, Taylor CM, Percy ME, Li W, Lukiw WJ.",
+                "journal": "J Inorg Biochem",
+                "DOI": "10.1016/j.jinorgbio.2019.110886",
+                "year": 2020,
+                "mesh": "Aluminum, Alzheimer's disease, Lipopolysaccharide, Inflammation, Dysbiosis, Microbiome, Fragilysin, B. Fragilis, Bf-lps, drug effects, pharmacology, metabolism",
+                "topic2": "Metabolism"
+            },
+            {
+                "Pubmed-ID": "31863660",
+                "title": "Extraction and Evaluation of Outer Membrane Vesicles from Two Important Gut Microbiota Members, Bacteroides fragilis and Bacteroides thetaiotaomicron.",
+                "authors": "Ahmadi Badi S, Moshiri A, Ettehad Marvasti F, Mojtahedzadeh M, Kazemi V, Siadat SD.",
+                "journal": "Cell J",
+                "DOI": "10.22074/cellj.2020.6499",
+                "year": 2020,
+                "mesh": "Gut Microbiota, Bacteroides Fragilis, Bacteroides Thetaiotaomicron"
+            },
+            {
+                "Pubmed-ID": "32550192",
+                "title": "The regulation of Niemann-Pick C1-Like 1 (NPC1L1) gene expression in opposite direction by <i>Bacteroides spp.</i> and related outer membrane vesicles in Caco-2 cell line.",
+                "authors": "Badi SA, Motahhary A, Bahramali G, Masoumi M, Khalili SFS, Ebrahimzadeh N, Nouri P, Rahimi A, Masotti A, Moshiri A, Siadat SD.",
+                "journal": "J Diabetes Metab Disord",
+                "DOI": "10.1007/s40200-020-00522-3",
+                "year": 2020,
+                "mesh": "Gut Microbiota, Cholesterol Homeostasis, Bacteroides Spp., Outer Membrane Vesicles (Omvs), Niemann-pick C1-like 1"
+            },
+            {
+                "Pubmed-ID": "32611796",
+                "title": "Utility of Stool PCR for the Diagnosis of COVID-19: Comparison of Two Commercial Platforms.",
+                "authors": "Szymczak WA, Goldstein DY, Orner EP, Fecher RA, Yokoda RT, Skalina KA, Narlieva M, Gendlina I, Fox AS.",
+                "journal": "J Clin Microbiol",
+                "DOI": "10.1128/jcm.01369-20",
+                "year": 2020,
+                "mesh": "Diagnostics, Stool Pcr, Covid-19, Sars-cov-2, virology, diagnosis, diagnosis, Clinical Laboratory Techniques, Polymerase Chain Reaction, genetics"
+            },
+            {
+                "Pubmed-ID": "33924514",
+                "title": "Long-Term Safety and Efficacy of Prebiotic Enriched Infant Formula-A Randomized Controlled Trial.",
+                "authors": "Neumer F, Urraca O, Alonso J, Palencia J, Varea V, Theis S, Rodriguez-Palmero M, Moreno-Munoz JA, Guarner F, Veereman G, Vandenplas Y, Campoy C.",
+                "journal": "Nutrients",
+                "DOI": "10.3390/nu13041276",
+                "year": 2021,
+                "mesh": "Infection, Safety, efficacy, inulin, Infant Formula, Prebiotic, Oligofructose, adverse effects, adverse effects, adverse effects, adverse effects, epidemiology"
+            },
+            {
+                "Pubmed-ID": "34123271",
+                "title": "Metabolic inhibitors of bacterial glycan biosynthesis.",
+                "authors": "Williams DA, Pradhan K, Paul A, Olin IR, Tuck OT, Moulton KD, Kulkarni SS, Dube DH.",
+                "journal": "Chem Sci",
+                "DOI": "10.1039/c9sc05955e",
+                "year": 2020
+            },
+            {
+                "Pubmed-ID": "34939101",
+                "title": "How microbial glycosyl hydrolase activity in the gut mucosa initiates microbial cross-feeding.",
+                "authors": "Berkhout MD, Plugge CM, Belzer C.",
+                "journal": "Glycobiology",
+                "DOI": "10.1093/glycob/cwab105",
+                "year": 2022,
+                "mesh": "Mucin, glycosidases, Gut Microbiota, Cazymes, Syntrophic Interactions, Intestinal Mucosa, Gastrointestinal Microbiome"
+            },
+            {
+                "Pubmed-ID": "35302355",
+                "title": "Synthesis and Application of Rare Deoxy Amino l-Sugar Analogues to Probe Glycans in Pathogenic Bacteria.",
+                "authors": "Luong P, Ghosh A, Moulton KD, Kulkarni SS, Dube DH.",
+                "journal": "ACS Infect Dis",
+                "DOI": "10.1021/acsinfecdis.2c00060",
+                "year": 2022,
+                "mesh": "Azide, Glycan, Metabolic Labeling, Bioorthogonal Chemistry, Bacteria, Azides"
+            },
+            {
+                "Pubmed-ID": "36060760",
+                "title": "Asclepain cI, a proteolytic enzyme from <i>Asclepias curassavica</i> L., a south American plant, against <i>Helicobacter pylori</i>.",
+                "authors": "Salinas Ibanez AG, Origone AL, Liggieri CS, Barberis SE, Vega AE.",
+                "journal": "Front Microbiol",
+                "DOI": "10.3389/fmicb.2022.961958",
+                "year": 2022,
+                "mesh": "Helicobacter Pylori, Antimicrobial Proteolytic Enzyme, Asclepain Ci, Asclepia Curassavica L. (Asclepiadaceae), Natural Therapeutic Adjuvant, Safe Nutraceutical Product"
+            },
+            {
+                "Pubmed-ID": "36174833",
+                "title": "Downregulation of ACE, AGTR1, and ACE2 genes mediating SARS-CoV-2 pathogenesis by gut microbiota members and their postbiotics on Caco-2 cells.",
+                "authors": "Ahmadi Badi S, Malek A, Paolini A, Rouhollahi Masoumi M, Seyedi SA, Amanzadeh A, Masotti A, Khatami S, Siadat SD.",
+                "journal": "Microb Pathog",
+                "DOI": "10.1016/j.micpath.2022.105798",
+                "year": 2022,
+                "mesh": "Renin angiotensin system, Gut Microbiota, Postbiotics, Covid-19, Sars-cov2, Peptidyl-Dipeptidase A, Receptor, Angiotensin, Type 1, MicroRNAs, Gastrointestinal Microbiome, COVID-19, Angiotensin-Converting Enzyme 2"
+            },
+            {
+                "Pubmed-ID": "37698279",
+                "title": "Thioglycosides Act as Metabolic Inhibitors of Bacterial Glycan Biosynthesis.",
+                "authors": "Quintana IL, Paul A, Chowdhury A, Moulton KD, Kulkarni SS, Dube DH.",
+                "journal": "ACS Infect Dis",
+                "DOI": "10.1021/acsinfecdis.3c00324",
+                "year": 2023,
+                "mesh": "Azide, Glycan, Metabolic Labeling, Bioorthogonal Chemistry, Thioglycosides"
+            },
+            {
+                "Pubmed-ID": "37903176",
+                "title": "Genome-scale metabolic modeling of the human gut bacterium Bacteroides fragilis strain 638R.",
+                "authors": "Neal M, Thiruppathy D, Zengler K.",
+                "journal": "PLoS Comput Biol",
+                "DOI": "10.1371/journal.pcbi.1011594",
+                "year": 2023,
+                "mesh": "Bacteroides fragilis, Carrier Proteins"
+            },
+            {
+                "Pubmed-ID": "37975078",
+                "title": "The effect of <i>Bacteroides fragilis</i> and its postbiotics on the expression of genes involved in the endocannabinoid system and intestinal epithelial integrity in Caco-2 cells.",
+                "authors": "Malek A, Ahmadi Badi S, Karimi G, Bizouarn T, Irian S, Siadat SD.",
+                "journal": "J Diabetes Metab Disord",
+                "DOI": "10.1007/s40200-023-01264-8",
+                "year": 2023,
+                "mesh": "Gut Microbiota, Endocannabinoid System, Bacteroides Fragilis, Epithelial Barrier, Postbiotics"
+            },
+            {
+                "Pubmed-ID": "41082400",
+                "title": "Examination of Acetylated Monosaccharides as Metabolic Probes in Bacteria.",
+                "authors": "Nigrovic SE, Paul A, Maji S, Ghosh A, Tran J, Luong P, Rackear WJ, Stemmler EA, Moulton KD, Kulkarni SS, Dube DH.",
+                "journal": "ACS Infect Dis",
+                "DOI": "10.1021/acsinfecdis.5c00765",
+                "year": 2025,
+                "mesh": "Esterase, Azide, Glycan, Metabolic Labeling, Bioorthogonal Chemistry, Bacteria, Monosaccharides, Molecular Probes"
+            }
+        ]
+    },
+    "Reference": [
+        {
+            "@id": 762,
+            "authors": "Curators of the DSMZ",
+            "catalogue": "Leibniz Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSM 1396)",
+            "doi/url": "https://www.dsmz.de/collection/catalogue/details/culture/DSM-1396"
+        },
+        {
+            "@id": 20215,
+            "authors": "Parte, A.C., Sard\u00e0 Carbasse, J., Meier-Kolthoff, J.P., Reimer, L.C. and G\u00f6ker, M.",
+            "title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+            "doi/url": "10.1099/ijsem.0.004332"
+        },
+        {
+            "@id": 20218,
+            "authors": "Verslyppe, B., De Smet, W., De Baets, B., De Vos, P., Dawyndt P.",
+            "title": "StrainInfo introduces electronic passports for microorganisms.",
+            "journal": "Syst Appl Microbiol. 37: 42-50 2014",
+            "doi/url": "10.1016/j.syapm.2013.11.002",
+            "pubmed": 24321274
+        },
+        {
+            "@id": 42287,
+            "authors": "Curators of the CIP",
+            "doi/url": "https://brclims.pasteur.fr/brcWeb/souche/detail/1/15586\r"
+        },
+        {
+            "@id": 48299,
+            "authors": "Curators of the CCUG",
+            "catalogue": "Culture Collection University of Gothenburg (CCUG) (CCUG 25931)",
+            "doi/url": "https://www.ccug.se/strain?id=25931"
+        },
+        {
+            "@id": 68380,
+            "title": "Automatically annotated from API rID32A"
+        },
+        {
+            "@id": 68381,
+            "title": "Automatically annotated from API rID32STR"
+        },
+        {
+            "@id": 68382,
+            "title": "Automatically annotated from API zym"
+        },
+        {
+            "@id": 119444,
+            "authors": "Curators of the CIP",
+            "catalogue": "Collection of Institut Pasteur (CIP 103754)",
+            "doi/url": "https://catalogue-crbip.pasteur.fr/fiche_catalogue.xhtml?crbip=CIP%20103754"
+        },
+        {
+            "@id": 124043,
+            "authors": "Isabel Schober, Julia Koblitz",
+            "title": "Data extracted from sequence databases, automatically matched based on designation and taxonomy"
+        },
+        {
+            "@id": 126262,
+            "authors": "A. Lissin, I. Schober, J. F. Witte, H. L\u00fcken, A. Podstawka, J. Koblitz, B. Bunk, P. Dawyndt, P. Vandamme, P. de Vos, J. Overmann, L. C. Reimer",
+            "title": "StrainInfo\u2014the central database for linked microbial strain identifiers",
+            "doi/url": "10.1093/database/baaf059"
+        }
+    ]
+}
