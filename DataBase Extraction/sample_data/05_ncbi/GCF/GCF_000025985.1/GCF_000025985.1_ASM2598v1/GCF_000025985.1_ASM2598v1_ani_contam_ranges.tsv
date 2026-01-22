@@ -1,0 +1,21 @@
+# ANI ranges report for assembly: GCA_000025985.1
+# Submitted organism: Bacteroides fragilis NCTC 9343 (taxid = 272559, rank = no rank, lineage = Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides)
+# Submitted Organism Has Type Assembly: Yes
+# Best match: Bacteroides fragilis (taxid = 817, rank = species, lineage = Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides)
+# Status: CONFIRMED
+# Confidence: HIGH
+# Recommended actions legend:
+#     - (dash) - No action, query nucleotide is not contaminated
+#     S        - query nucleotide range is contaminated from within the same genus and could be considered for trimming, but it is still a valid component of assembly after trimming
+#     T        - query nucleotide range is contaminated and needs to be trimmed, but it is still a valid component of assembly after trimming
+#recommended_action	input_sequence_identifier	input_sequence_type	sequence_start	sequence_stop	sequence_length	typestrain_sequence	typestrain_sequence_start	typestrain_sequence_stop	typestrain_assembly_accession	typestrain_organism	ANI_this_region	ANI_threshold	%_query_coverage
+-	CR626927.1	CIRCULAR	1	2005833	5205140	CP036555.1	936210	2942053	GCA_005706655.1	Bacteroides fragilis	99.9956	96	38.5356
+-	CR626927.1	CIRCULAR	2005834	2093694	5205140	CP036555.1	2942054	3029914	GCA_005706655.1	Bacteroides fragilis	99.9956	96	1.68797
+-	CR626927.1	CIRCULAR	2093695	2282859	5205140	CP036555.1	3029915	3219068	GCA_005706655.1	Bacteroides fragilis	99.9956	96	3.6342
+-	CR626927.1	CIRCULAR	2282860	2283112	5205140	CP036555.1	3219069	3219321	GCA_005706655.1	Bacteroides fragilis	99.9956	96	0.00486058
+-	CR626927.1	CIRCULAR	2283113	2832211	5205140	CP036555.1	3219322	3768423	GCA_005706655.1	Bacteroides fragilis	99.9956	96	10.5492
+-	CR626927.1	CIRCULAR	2832230	2833174	5205140	CP036555.1	3768442	3769386	GCA_005706655.1	Bacteroides fragilis	99.9965	96	0.0181551
+-	CR626927.1	CIRCULAR	2833175	4268925	5205140	CP036555.1	3769387	5205133	GCA_005706655.1	Bacteroides fragilis	99.9965	96	27.5833
+-	CR626927.1	CIRCULAR	4268926	5205140	5205140	CP036555.1	1	936209	GCA_005706655.1	Bacteroides fragilis	99.9965	96	17.9864
+-	CR626928.1	CIRCULAR|PLASMID	1	5150	36560	CP036556.1	1	5150	GCA_005706655.1	Bacteroides fragilis	100	96	14.0864
+-	CR626928.1	CIRCULAR|PLASMID	5151	36560	36560	CP036556.1	5151	36560	GCA_005706655.1	Bacteroides fragilis	100	96	85.9136

@@ -1,0 +1,30 @@
+ANI report for assembly: GCA_000016525.1
+Submitted organism: Methanobrevibacter smithii ATCC 35061 (taxid = 420247, rank = no rank, lineage = Archaea; Methanobacteriati; Methanobacteriota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter)
+Best match: Methanobrevibacter smithii (taxid = 2173, rank = species, lineage = Archaea; Methanobacteriati; Methanobacteriota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+100.000 (100.0 100.0)  1853160  1853160  40932298     Methanobrevibacter smithii ATCC 35061 (GCA_028743435.1, ASM2874343v1)
+ 93.462 ( 89.3  85.9)        0        0   4924308     Methanobrevibacter intestini (GCA_002252585.1, ASM225258v1)
+ 81.110 ( 18.1  15.7)        0        0   3221628     Methanobrevibacter oralis (GCA_001639275.1, ASM163927v1)
+ 81.135 ( 19.2  23.0)        0        0   6474788     Methanobrevibacter woesei (GCA_003111605.1, ASM311160v1)
+ 80.596 ( 16.3  16.1)        0        0   7904418     Methanobrevibacter gottschalkii DSM 11977 (GCA_003814835.1, ASM381483v1)
+ 82.316 (  2.0   2.3)        0        0  67390198     Methanobrevibacter acididurans (GCA_046197875.1, 117775)
+ 81.189 (  2.8   2.5)        0        0    507718     Methanobrevibacter boviskoreani JH1 (GCA_000320505.2, ASM32050v2)
+ 81.184 (  3.5   3.1)        0        0   3703628     Methanobrevibacter olleyae (GCA_900114585.1, IMG-taxon 2593339150 annotated assembly)
+ 80.926 (  9.8   8.1)        0        0   6474808     Methanobrevibacter thaueri (GCA_003111625.1, ASM311162v1)
+ 80.503 (  3.3   3.0)        0        0    994318     Methanobrevibacter wolinii SH (GCA_000621965.1, ASM62196v1)
+ 80.171 (  9.2   6.3)        0        0  13712718     Methanobrevibacter millerae (GCA_900103415.1, IMG-taxon 2593339167 annotated assembly)
