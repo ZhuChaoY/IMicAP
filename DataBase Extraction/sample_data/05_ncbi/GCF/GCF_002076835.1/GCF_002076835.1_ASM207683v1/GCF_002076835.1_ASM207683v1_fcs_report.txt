@@ -1,0 +1,2 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0-139-g61227c1", "run-date": "Wed Sep  6 04:25:52 2023", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.967489, "asserted-div": "prok:firmicutes", "inferred-primary-divs": ["prok:firmicutes", "prok:high GC Gram+", "prok:g-proteobacteria"], "corrected-primary-divs": ["prok:firmicutes", "prok:high GC Gram+", "prok:g-proteobacteria"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	contam_type	coverage	contam_details

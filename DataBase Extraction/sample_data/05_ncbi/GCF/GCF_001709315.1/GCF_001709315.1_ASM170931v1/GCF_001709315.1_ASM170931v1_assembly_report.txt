@@ -1,0 +1,33 @@
+# Assembly name:  ASM170931v1
+# Organism name:  Pantoea agglomerans (enterobacteria)
+# Infraspecific name:  strain=C410P1
+# Taxid:          549
+# BioSample:      SAMN05444153
+# BioProject:     PRJNA335437
+# Submitter:      Anhui University
+# Date:           2016-08-19
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: HGAP v. 3
+# Genome coverage: 288.0
+# Sequencing technology: PacBio
+# GenBank assembly accession: GCA_001709315.1
+# RefSeq assembly accession: GCF_001709315.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001709325.1	GCF_001709325.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CP016889.1	assembled-molecule	na	Chromosome	CP016889.1	=	NZ_CP016889.1	Primary Assembly	4182028	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP016890.1	=	NZ_CP016890.1	Primary Assembly	543504	na
+unnamed2	assembled-molecule	unnamed2	Plasmid	CP016891.1	=	NZ_CP016891.1	Primary Assembly	216117	na
+unnamed3	assembled-molecule	unnamed3	Plasmid	CP016892.1	=	NZ_CP016892.1	Primary Assembly	173592	na

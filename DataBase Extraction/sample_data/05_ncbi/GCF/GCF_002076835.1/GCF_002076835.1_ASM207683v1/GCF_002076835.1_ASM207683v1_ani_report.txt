@@ -1,0 +1,59 @@
+ANI report for assembly: GCA_002076835.1
+Submitted organism: Streptococcus pneumoniae (trusted species) (taxid = 1313, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus)
+Best match: Streptococcus pneumoniae (trusted species) (taxid = 1313, rank = species, lineage = Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus)
+Submitted organism has type: Yes
+Status: CONFIRMED
+Confidence: HIGH
+
+Table legend:
+ANI : ANI value between this assembly and the type listed in this row
+(Coverages) : query-coverage and subject-coverage of this assembly (query) and the type (subject)
+NewSeq : the count of bases best assigned to this type assembly
+CntmSeq : the portion of NewSeq allocated for purposes of evaluating contamination
+Flg : Type flags; currently: C = contaminant; E = effectively published; T = trusted species
+Assembly : Release-id of the type-assembly (this value matches the accession and assembly-name on the right column)
+Organism : Organism of this type-assembly
+(assembly_accession, assembly_name) : of this type-assembly
+
+ANI     (Coverages)   NewSeq   CntmSeq  Assembly  Flg Organism  (assembly_accession, assembly_name)
+------- ------------- -------- -------- --------- --- --------------------------------------------------------------------
+ 98.535 ( 89.6  86.5)  1858802  1858802  78256948   T Streptococcus pneumoniae (GCA_053203845.1, ASM5320384v1)
+ 98.505 ( 87.7  88.0)    75761    75761   2704338   T Streptococcus pneumoniae (GCA_001457635.1, NCTC7465)
+ 98.524 ( 87.3  88.3)      133      133   3330958   T Streptococcus pneumoniae (GCA_001679515.1, ASM167951v1)
+ 98.480 ( 87.2  90.4)      260      260   3330968   T Streptococcus pneumoniae (GCA_001679535.1, ASM167953v1)
+ 94.798 ( 77.2  75.4)     9647     9647   4355308     Streptococcus pseudopneumoniae ATCC BAA-960 = CCUG 49455 (GCA_002087075.1, ASM208707v1)
+ 94.820 ( 76.5  77.7)      474      474    368008     Streptococcus pseudopneumoniae ATCC BAA-960 = CCUG 49455 (GCA_000257825.1, ASM25782v1)
+ 94.353 ( 79.3  44.6)    42559    42559  40567038  E  Streptococcus bouchesdurhonensis (GCA_948472335.1, Marseille-Q6994)
+ 93.772 ( 73.8  67.2)     8770     8770  54712748     Streptococcus parapneumoniae (GCA_037076355.1, ASM3707635v1)
+ 93.656 ( 70.1  73.2)        0        0  20048858     Streptococcus thalassemiae (GCA_903645285.1, Q2617)
+ 92.756 ( 69.4  69.0)     3085     3085   1162468     Streptococcus mitis subsp. carlssonii (GCA_000722775.1, ASM72277v1)
+ 92.751 ( 70.7  73.9)      912      912  28182658     Streptococcus humanilactis (GCA_019448275.1, ASM1944827v1)
+ 92.518 ( 68.9  73.6)     2130     2130  42529068     Streptococcus hohhotensis (GCA_020089495.2, ASM2008949v2)
+ 92.570 ( 70.1  73.2)     2022     2022  78256348  E  Streptococcus toyakuensis (GCA_053203255.1, ASM5320325v1)
+ 92.570 ( 70.1  72.2)        0        0  34789458  E  Streptococcus toyakuensis (GCA_024346585.1, ASM2434658v1)
+ 92.348 ( 66.6  75.5)      401      401  27594548     Streptococcus mitis (GCA_019047825.1, ASM1904782v1)
+ 92.351 ( 66.6  76.4)        0        0   4170888     Streptococcus mitis (GCA_002014755.1, ASM201475v1)
+ 92.349 ( 66.6  75.0)        0        0   6992788     Streptococcus mitis (GCA_900459425.1, 42042_B02)
+ 92.343 ( 66.6  75.5)        0        0   9267908     Streptococcus mitis NCTC 12261 (GCA_000148585.3, ASM14858v3)
+ 92.348 ( 66.6  76.3)        0        0  28796358     Streptococcus mitis (GCA_019929505.1, ASM1992950v1)
+ 92.348 ( 66.6  75.5)        0        0  47006978     Streptococcus mitis (GCA_031191225.1, ASM3119122v1)
+ 92.347 ( 66.6  76.3)        0        0  78257528     Streptococcus mitis (GCA_053204425.1, ASM5320442v1)
+ 92.185 ( 70.0  73.2)      161      161  11391808     Streptococcus shenyangsis (GCA_006385785.1, ASM638578v1)
+ 92.220 ( 66.2  71.0)        0        0   7549148     Streptococcus gwangjuensis (GCA_003627155.1, ASM362715v1)
+ 92.099 ( 63.8  61.7)     1051     1051  11391198     Streptococcus symci (GCA_006385165.1, ASM638516v1)
+ 92.033 ( 64.2  71.5)      793      793   7548488     Streptococcus chosunensis (GCA_003626515.1, ASM362651v1)
+ 92.057 ( 65.3  70.4)      233      233  27861618     Streptococcus vulneris (GCA_019218685.1, ASM1921868v1)
+ 92.039 ( 64.2  71.7)        0        0  78260278     Streptococcus chosunensis (GCA_053207165.1, ASM5320716v1)
+ 87.386 ( 58.7  66.1)     9384     9384   8063278     Streptococcus halitosis (GCA_003143695.2, ASM314369v2)
+ 87.211 ( 57.0  63.1)      232      232   3221748     Streptococcus oralis (GCA_001639375.1, ASM163937v1)
+ 87.214 ( 56.9  63.3)        0        0    198878     Streptococcus oralis ATCC 35037 (GCA_000164095.1, ASM16409v1)
+ 87.163 ( 56.6  63.6)        0        0    234738     Streptococcus oralis ATCC 35037 (GCA_000148565.2, ASM14856v1)
+ 87.209 ( 57.0  63.2)        0        0   4171028     Streptococcus oralis (GCA_002014885.1, ASM201488v1)
+ 87.210 ( 57.0  62.5)        0        0   8122558     Streptococcus oralis ATCC 35037 (GCA_900637025.1, 46338_H01)
+ 87.206 ( 58.8  64.8)        0        0   8745698     Streptococcus downii (GCA_004353325.1, ASM435332v1)
+ 87.208 ( 57.0  62.5)        0        0  24001088     Streptococcus oralis (GCA_016127555.1, ASM1612755v1)
+ 87.237 ( 56.9  63.2)        0        0  50617548     Streptococcus jiangnanensis (GCA_034105045.1, ASM3410504v1)
+ 87.237 ( 56.9  63.2)        0        0  60570078     Streptococcus jiangnanensis (GCA_040888325.1, ASM4088832v1)
+ 87.214 ( 58.8  64.5)        0        0  62872388     Streptococcus downii (GCA_042656185.1, ASM4265618v1)
+ 87.208 ( 57.0  63.1)        0        0  78257428     Streptococcus oralis subsp. oralis (GCA_053204325.1, ASM5320432v1)
+ 87.214 ( 58.8  64.4)        0        0  78259928     Streptococcus downii (GCA_053206825.1, ASM5320682v1)
