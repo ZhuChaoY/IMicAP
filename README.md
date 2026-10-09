@@ -4,9 +4,6 @@
 ## Cite By
 Chaoyu Zhu, Xing Wang, Lihui Feng, Mingzhang Xv, Zhengkun Huang, Weijie Chen, Lei Liu, IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research, Frontiers in Microbiology, 2026, 17, 1955928. 
 
-## Open-Access Website
-https://www.imicap.com:8443
-
 ## Abstract
 **Background**: Microorganisms play a pivotal role in health and disease, yet microbial research is hindered by fragmented data, heterogeneous knowledge representation, and a lack of integrated analytical tools. Existing databases and knowledge graphs often focus narrowly on genomic information, leaving critical metabolomic and literature-based associations underdeveloped.
 
