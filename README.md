@@ -2,7 +2,7 @@
 [IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1955928/full)
 
 ## Cite By
-Chaoyu Zhu, Xing Wang, Lihui Feng, Mingzhang Xv, Zhengkun Huang, Weijie Chen, Lei Liu, IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research, Frontiers in Microbiology, 2022, 17, 1955928. 
+Chaoyu Zhu, Xing Wang, Lihui Feng, Mingzhang Xv, Zhengkun Huang, Weijie Chen, Lei Liu, IMicAP: An Intelligent Microbial Application Platform for Knowledge-Driven Microbiome Research, Frontiers in Microbiology, 2026, 17, 1955928. 
 
 ## Open-Access Website
 https://www.imicap.com:8443
